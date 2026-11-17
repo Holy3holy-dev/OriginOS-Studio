@@ -1,0 +1,9 @@
+{
+    "changelog":  "• Собственный отдельный репозиторий OriginOS-Studio с автообновляемым каталогом без перекачивания APK\n• Встроенный шрифт Kabel (Vivo X200 Pro) + 14 фирменных шрифтов со смартфонов (Google Pixel, Samsung Galaxy One UI 7, Apple iPhone iOS 18, Huawei HarmonyOS, Xiaomi HyperOS, OnePlus, Nothing Phone, ASUS ROG) — всего 62 кириллических шрифта\n• Живой рендеринг настоящих .ttf на карточках и интерактивный стенд по кнопке «Превью»\n• Встроенные классические часы Material You (2×2) и каталог из 12 сторонних комплектов виджетов",
+    "bannerUrl":  "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+    "versionName":  "2.2.3",
+    "versionCode":  56,
+    "apkSizeBytes":  4205230,
+    "catalogUrl":  "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
+    "apkUrl":  "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/OriginOS-Studio-2.2.3.apk"
+}
