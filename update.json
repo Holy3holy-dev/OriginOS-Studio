@@ -1,9 +1,9 @@
 {
-    "changelog":  "• Собственный отдельный репозиторий OriginOS-Studio с автообновляемым каталогом без перекачивания APK\n• Встроенный шрифт Kabel (Vivo X200 Pro) + 14 фирменных шрифтов со смартфонов (Google Pixel, Samsung Galaxy One UI 7, Apple iPhone iOS 18, Huawei HarmonyOS, Xiaomi HyperOS, OnePlus, Nothing Phone, ASUS ROG) — всего 62 кириллических шрифта\n• Живой рендеринг настоящих .ttf на карточках и интерактивный стенд по кнопке «Превью»\n• Встроенные классические часы Material You (2×2) и каталог из 12 сторонних комплектов виджетов",
+    "changelog":  "• Новая адаптивная иконка приложения «Цветок Material You \u0026 Кисть» с поддержкой монохромного слоя Monet (\u003cmonochrome\u003e)\n• Добавлена полная поддержка глобальных версий смартфонов Vivo и iQOO (Funtouch OS 14–15 и Global OriginOS 5–7): автоперекраска системных приложений Google (Dialer, Messages, Contacts, Calendar, Clock), зеркалирование пакетов CN \u003c-\u003e Global и синхронизация с глобальным каталогом Download/.dwd/",
     "bannerUrl":  "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
-    "versionName":  "2.2.3",
-    "versionCode":  56,
-    "apkSizeBytes":  4205230,
+    "versionName":  "2.2.4",
+    "versionCode":  57,
+    "apkSizeBytes":  4266854,
     "catalogUrl":  "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "apkUrl":  "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/OriginOS-Studio-2.2.3.apk"
+    "apkUrl":  "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/OriginOS-Studio-2.2.4.apk"
 }
