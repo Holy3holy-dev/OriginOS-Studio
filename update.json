@@ -1,9 +1,9 @@
 {
     "versionCode": 71,
-    "versionName": "2.3.8",
-    "apkUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/OriginOS-Studio-2.3.8.apk",
+    "versionName": "2.3.9",
+    "apkUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/OriginOS-Studio-2.3.9.apk",
     "apkSizeBytes": 4287334,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Исправлена ошибка сохранения фото в качестве иконки (добавлен ресайз).\n• Оптимизация работы с системными темами."
+    "changelog": "• Реализована системная обрезка иконок (маски) как в OriginOS 7.\n• Исправлено применение пользовательских иконок."
 }
