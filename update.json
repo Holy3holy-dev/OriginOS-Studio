@@ -1,9 +1,9 @@
 {
-    "versionCode": 73,
-    "versionName": "2.4.1",
-    "apkUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/OriginOS-Studio-2.4.1.apk",
-    "apkSizeBytes": 4287334,
+    "versionCode": 78,
+    "versionName": "2.5.1",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.5.1/OriginOS-Studio-2.5.1.apk",
+    "apkSizeBytes": 4295526,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Реализована системная маска иконок (как в OriginOS 7) с автоматическим центрированием и обрезкой фото.\n• Фотографии теперь применяются «как есть» (без окрашивания в цвета темы)."
+    "changelog": "• Поддержка Global и РСТ прошивок (OriginOS 6–7 / Funtouch OS 15+): исправлено мгновенное закрытие системного окна тем (обход блокировки isSafeIntent через DLTheme и регистрацию в системных ContentProvider с числовым UID).\n• Своё фото для значка «как в OriginOS 7»: встроен полноэкранный интерактивный редактор произвольной обрезки, поворота и масштабирования внутри живого контура значка, без цветовых фильтров палитры и с мгновенным обновлением превью.\n• Исправлен обход CDN-кэша GitHub при проверке OTA-обновлений."
 }
