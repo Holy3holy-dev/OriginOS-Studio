@@ -1,9 +1,9 @@
 {
-    "versionCode": 69,
-    "versionName": "2.3.6",
-    "apkUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/OriginOS-Studio-2.3.6.apk",
+    "versionCode": 70,
+    "versionName": "2.3.7",
+    "apkUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/OriginOS-Studio-2.3.7.apk",
     "apkSizeBytes": 4287334,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Поддержка глобальных прошивок (Overseas): добавлена работа через ContentProvider для обхода системных ограничений.\n• Точечная замена значков: возможность выбрать свою картинку или фото из галереи в качестве иконки.\n• Технические исправления: стабильность при работе с системными темами Vivo."
+    "changelog": "• Исправлена работа выбора своего фото в качестве иконки.\n• Исправлен конфликт версий при обновлении OTA."
 }
