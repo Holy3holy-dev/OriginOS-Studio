@@ -1,9 +1,9 @@
 {
-    "versionCode": 71,
-    "versionName": "2.3.9",
-    "apkUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/OriginOS-Studio-2.3.9.apk",
+    "versionCode": 73,
+    "versionName": "2.4.1",
+    "apkUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/OriginOS-Studio-2.4.1.apk",
     "apkSizeBytes": 4287334,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Реализована системная обрезка иконок (маски) как в OriginOS 7.\n• Исправлено применение пользовательских иконок."
+    "changelog": "• Реализована системная маска иконок (как в OriginOS 7) с автоматическим центрированием и обрезкой фото.\n• Фотографии теперь применяются «как есть» (без окрашивания в цвета темы)."
 }
