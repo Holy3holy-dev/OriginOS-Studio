@@ -1,6 +1,6 @@
 # Студия OriginOS (OriginOS Studio)
 
-**Версия:** `2.5.10 (build 87) • RU / EN`  
+**Версия:** `2.5.11 (build 88) • RU / EN`  
 **Автор:** [H3H • Telegram: @holy3holy](https://t.me/holy3holy)  
 **Платформа:** Vivo / iQOO (OriginOS 4 / 5 / 6 / 7 & Funtouch OS 14–15 • Android 14–17)
 
@@ -18,7 +18,7 @@
 
 ## Скачать
 
-- **[Скачать OriginOS-Studio-2.5.10.apk (Прямая ссылка)](https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.5.10/OriginOS-Studio-2.5.10.apk)**
+- **[Скачать OriginOS-Studio-2.5.11.apk (Прямая ссылка)](https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.5.11/OriginOS-Studio-2.5.11.apk)**
 - **[Страница релизов GitHub](https://github.com/Holy3holy-dev/OriginOS-Studio/releases)**
 - **[Telegram-канал H3H](https://t.me/holy3holy)**
 
