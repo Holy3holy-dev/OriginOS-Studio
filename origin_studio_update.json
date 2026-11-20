@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 96,
-    "versionName": "2.6.0-beta5",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta5/OriginOS-Studio-2.6.0-beta5.apk",
+    "versionCode": 97,
+    "versionName": "2.6.0-beta6",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta6/OriginOS-Studio-2.6.0-beta6.apk",
     "apkSizeBytes": 4328976,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Полный редизайн стеклянных виджетов (4×1 Восход, 2×1 Компакт, 4×2 Часы и День):\n  — адаптивный рендер по реальным размерам виджета (onAppWidgetOptionsChanged) — больше никакого сплющивания текста и дуги;\n  — увеличена ширина 4×1 (minWidth 310dp) и крупный шрифт времени (46sp / 35sp / 48sp), как на родном виджете OriginOS;\n  — более воздушное стекло с выраженным верхне-левым бликом, призматическим кантом и крупной градиентной дугой восхода."
+    "changelog": "• Исправлены пропорции стеклянных виджетов 4×1 (Восход солнца) и 2×1 (Компакт):\n  — точный холст 960×210 (4×1) и 480×210 (2×1) с радиусом углов 24% — больше никакого растягивания букв и овальных краёв;\n  — дуга восхода солнца отображается всегда в пропорциях 1-в-1 с родным виджетом;\n  — крупное время в dp (54dp / 38dp), не уменьшающееся от системного масштаба шрифта."
 }
