@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 102,
-    "versionName": "2.7.0-beta3",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta3/OriginOS-Studio-2.7.0-beta3.apk",
+    "versionCode": 103,
+    "versionName": "2.7.0-beta4",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta4/OriginOS-Studio-2.7.0-beta4.apk",
     "apkSizeBytes": 4337168,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Исправлен рендер собственной иконки «Студии OriginOS» (и Beta) в режиме «💎 Жидкое стекло»: теперь она корректно перекрашивается в стекло с прозрачным вырезом логотипа."
+    "changelog": "• Исправлены стартовые цвета в «Своих парах» (+): теперь берутся из текущих обоев вместо фиолетового.\n• Исправлен рендер собственной иконки «Студии OriginOS» (и Beta) в режиме «💎 Жидкое стекло»."
 }
