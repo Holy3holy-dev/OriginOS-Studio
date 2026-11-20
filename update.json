@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 94,
-    "versionName": "2.6.0-beta3",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta3/OriginOS-Studio-2.6.0-beta3.apk",
+    "versionCode": 95,
+    "versionName": "2.6.0-beta4",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta4/OriginOS-Studio-2.6.0-beta4.apk",
     "apkSizeBytes": 4328976,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Новые стеклянные виджеты OriginOS 7 (Liquid Glass с призматическим кантом и полным перекрасом в палитру обоев):\n  — «Часы и Восход (Стекло 4×1)»: живое время, дата, батарея и дуга солнечного пути с восходом/закатом;\n  — «Часы компакт (Стекло 2×1)»: компактная карточка времени, даты и заряда;\n  — «Аккумулятор + Bluetooth (Стекло 2×2)»: кольцевой индикатор заряда в цвете палитры и плашка подключённых Bluetooth-наушников.\n• Усилен эффект «💎 Жидкое стекло» на иконках: добавлен тонкий призматический кант преломления по периметру."
+    "changelog": "• Исправлены Часы (com.android.BBKClock): отключён конфликтный слой dynamic_icon/com.android.BBKClock (в OriginOS 7 лаунчер смещал стрелки вверх от центра) — теперь Часы отображаются ровной стеклянной/перекрашенной иконкой в стиле темы.\n• Исправлена Погода (com.vivo.weather): отключена принудительная подмена синей стоковой иконкой (<weatherEnabled>false</weatherEnabled>), чтобы Погода отображалась в едином стеклянном/перекрашенном стиле темы.\n• Живой Календарь (дата и день недели) и новые стеклянные виджеты (4×1 Восход, 2×1 Компакт, 2×2 Аккумулятор + Bluetooth) сохранены."
 }
