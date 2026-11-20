@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 100,
-    "versionName": "2.7.0-beta1",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta1/OriginOS-Studio-2.7.0-beta1.apk",
+    "versionCode": 101,
+    "versionName": "2.7.0-beta2",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta2/OriginOS-Studio-2.7.0-beta2.apk",
     "apkSizeBytes": 4337168,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Тестовая витрина 3 новых концепций интерфейса Студии OriginOS (переключатель «🎨 Макет 1/2/3» прямо в шапке):\n  — Макет 1 «OriginOS 7 Studio»: 4 просторные вкладки в парящей пилюле, чистые 3 карточки без простыней текста и всегда закреплённая кнопка «⚡ Применить»;\n  — Макет 2 «Редактор iOS / OriginOS»: крупный живой макет рабочего стола сверху + 4 компактных инструмента (Стиль / Цвет / Форма / Пак) + кнопка «Применить» в шапке;\n  — Макет 3 «Дашборд-хаб 2×2»: 4 крупные плитки на стартовом экране и спокойные разделы с кнопкой «← Назад в Хаб»;\n  — плюс пункт «Старый» для прямого сравнения."
+    "changelog": "• Исправлен сброс скрытых иконок уведомлений в строке состояния: режимы OriginOS «Нет» (-2) и «Число» (-1) теперь сохраняются и не перезаписываются на показ значков после применения темы."
 }
