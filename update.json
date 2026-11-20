@@ -3,8 +3,8 @@
     "versionCode": 107,
     "versionName": "2.7.0-beta8",
     "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta8/OriginOS-Studio-2.7.0-beta8.apk",
-    "apkSizeBytes": 4357823,
+    "apkSizeBytes": 4403032,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Эксперимент Global / GC Tune: добавлена отдельная карточка с двумя независимыми операциями «Применить иконки» и «Применить шрифт».\n• Перед применением отображается, какое приложение откроется и что нужно подтвердить; для Global выполняется экспорт совместимых .itz / .ttf в Download/OriginOS-Studio/ с честным статусом «Пакет сохранён (только экспорт)», кнопкой запуска GC Tune (com.poc.gctune) и точными шагами ручного импорта.\n• Рабочий CN-сценарий через «Темы» сохранён без изменений."
+    "changelog": "• Новый стеклянный виджет «vivo TWS / Наушники (4×2)» в едином стиле «Жидкого стекла» OriginOS 7: использует официальный 3D-рендер кейса, живой статус и заряд подключённых Bluetooth-наушников, чистые кнопки «Шумоподавление» и «Объёмный звук» без кривых переносов и мгновенный переход в оригинальное приложение vivo TWS по тапу."
 }
