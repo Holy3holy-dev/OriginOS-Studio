@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 104,
-    "versionName": "2.7.0-beta5",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta5/OriginOS-Studio-2.7.0-beta5.apk",
-    "apkSizeBytes": 4341264,
+    "versionCode": 105,
+    "versionName": "2.7.0-beta6",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta6/OriginOS-Studio-2.7.0-beta6.apk",
+    "apkSizeBytes": 4353727,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Добавлена настройка «Цвет папок на рабочем столе»: Родной (разблокирует штатные кружки OriginOS), В цвет темы или Свой цвет + прозрачность."
+    "changelog": "• Тонкая настройка «💎 Жидкого стекла»: 3 ползунка (прозрачность стекла, насыщенность тона и яркость блика/канта) с живым предпросмотром.\n• «Мои сетапы»: сохранение всех настроек оформления в пресеты, переключение в 1 тап и обмен JSON-сетапами через Telegram.\n• Новые стеклянные виджеты: «Фото в стекле (2×2)» и «Стеклянная заметка (4×2)» с быстрым редактированием по тапу + уровень прозрачности подложки 20%."
 }
