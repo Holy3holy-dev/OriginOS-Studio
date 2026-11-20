@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 98,
-    "versionName": "2.6.0-beta7",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta7/OriginOS-Studio-2.6.0-beta7.apk",
+    "versionCode": 99,
+    "versionName": "2.6.0-beta8",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta8/OriginOS-Studio-2.6.0-beta8.apk",
     "apkSizeBytes": 4328976,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Стеклянный виджет «Аккумулятор + BT (2×2)»: добавлены разрешения BLUETOOTH / BLUETOOTH_CONNECT и второе кольцо заряда подключённых Bluetooth-наушников в правом верхнем углу + плашка названия и заряда.\n• Исправлен живой Календарь (com.bbk.calendar) в тёмном режиме «💎 Жидкое стекло»: восстановлен положительный 24-битный формат цвета текста («Пт 20» снова в цвет палитры, а не чёрный) и добавлена глубокая стеклянная основа, чтобы Календарь не осветлялся в светло-серый круг."
+    "changelog": "• Стеклянный виджет 4×1 (Часы и Восход) приведён максимально близко к родному OriginOS 7:\n  — системный шрифт OriginOS (Typeface.DEFAULT) для времени и всех подписей, крупный размер 58dp;\n  — спокойное стекло с тонким деликатным кантом (не выделяется яркой белой рамкой) и точная пропорция 960×176;\n  — плавно затухающая дуга восхода/заката с аккуратными подписями 1-в-1 и чистая вторая строка (погода или день недели)."
 }
