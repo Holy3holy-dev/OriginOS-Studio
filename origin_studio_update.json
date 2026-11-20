@@ -1,9 +1,10 @@
 {
-    "versionCode": 91,
-    "versionName": "2.5.14",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.5.14/OriginOS-Studio-2.5.14.apk",
-    "apkSizeBytes": 4316256,
+    "channel": "beta",
+    "versionCode": 92,
+    "versionName": "2.6.0-beta1",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta1/OriginOS-Studio-2.6.0-beta1.apk",
+    "apkSizeBytes": 4320352,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Исправлена кнопка «Выбрать все / Снять выбор» в списке приложений (AppsActivity): корректно обновляет галочки и счётчик в заголовке.\n• Global Vivo / iQOO: в экране выбора приложений добавлен переключатель способа закрепления иконок — «✨ 1×1 без бейджа» (перетаскиванием из окна или через Виджеты, с предупреждением про кнопку «Добавить автоматически») и «⚡ Ярлыки (1 тап)».\n• Обновлён URI кнопки «Открыть Темы» под com.bbk.theme v23.8+ (themelocal://themehost) и улучшена диагностика совместимости: автоматическое определение реального системного лаунчера через CATEGORY_HOME и логирование шагов закрепления виджетов."
+    "changelog": "• Тестовая ветка Beta (пакет rk.android.app.themedicons.vivo.beta) — устанавливается рядом со стабильной версией и обновляется через отдельный канал beta.\n• Новый режим «💎 Жидкое стекло» (Liquid Glass): адаптивная полупрозрачная стеклянная линза с оптическими бликами, двойной кромкой и полноценным перекрасом значков и папок.\n• Исправлены живые значки (Календарь, Погода, Часы): убрано белое кольцо по краю, поправлен цвет и позиционирование цифр, включены живые Часы и добавлена поддержка режима стекла.\n• Исправлено скачивание сторонних виджетов из каталога: добавлены прямые ссылки на APK для 11 рабочих виджетов и резервное открытие GitHub Releases при сбое."
 }
