@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 99,
-    "versionName": "2.6.0-beta8",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta8/OriginOS-Studio-2.6.0-beta8.apk",
-    "apkSizeBytes": 4328976,
+    "versionCode": 100,
+    "versionName": "2.7.0-beta1",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta1/OriginOS-Studio-2.7.0-beta1.apk",
+    "apkSizeBytes": 4337168,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Стеклянный виджет 4×1 (Часы и Восход) приведён максимально близко к родному OriginOS 7:\n  — системный шрифт OriginOS (Typeface.DEFAULT) для времени и всех подписей, крупный размер 58dp;\n  — спокойное стекло с тонким деликатным кантом (не выделяется яркой белой рамкой) и точная пропорция 960×176;\n  — плавно затухающая дуга восхода/заката с аккуратными подписями 1-в-1 и чистая вторая строка (погода или день недели)."
+    "changelog": "• Тестовая витрина 3 новых концепций интерфейса Студии OriginOS (переключатель «🎨 Макет 1/2/3» прямо в шапке):\n  — Макет 1 «OriginOS 7 Studio»: 4 просторные вкладки в парящей пилюле, чистые 3 карточки без простыней текста и всегда закреплённая кнопка «⚡ Применить»;\n  — Макет 2 «Редактор iOS / OriginOS»: крупный живой макет рабочего стола сверху + 4 компактных инструмента (Стиль / Цвет / Форма / Пак) + кнопка «Применить» в шапке;\n  — Макет 3 «Дашборд-хаб 2×2»: 4 крупные плитки на стартовом экране и спокойные разделы с кнопкой «← Назад в Хаб»;\n  — плюс пункт «Старый» для прямого сравнения."
 }
