@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 93,
-    "versionName": "2.6.0-beta2",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta2/OriginOS-Studio-2.6.0-beta2.apk",
-    "apkSizeBytes": 4320352,
+    "versionCode": 94,
+    "versionName": "2.6.0-beta3",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta3/OriginOS-Studio-2.6.0-beta3.apk",
+    "apkSizeBytes": 4328976,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Исправлено скачивание сторонних виджетов: убрано ложное определение неустановленного виджета как уже установленного — кнопка «⬇ Скачать APK» теперь сразу запускает загрузку и установку APK.\n• Исправлены живые Часы (com.android.BBKClock): убран квадрат поверх подписи «Часы», циферблат в режиме «Жидкое стекло» теперь строго по форме иконки (круг/сквиркл) и совпадает по масштабу со стрелками.\n• Исправлен живой Календарь (com.bbk.calendar) в режиме «Жидкое стекло»: стеклянная подложка теперь применяется корректно с обрезкой по форме иконки.\n• Отдельный beta-канал обновлений (ветка beta)."
+    "changelog": "• Новые стеклянные виджеты OriginOS 7 (Liquid Glass с призматическим кантом и полным перекрасом в палитру обоев):\n  — «Часы и Восход (Стекло 4×1)»: живое время, дата, батарея и дуга солнечного пути с восходом/закатом;\n  — «Часы компакт (Стекло 2×1)»: компактная карточка времени, даты и заряда;\n  — «Аккумулятор + Bluetooth (Стекло 2×2)»: кольцевой индикатор заряда в цвете палитры и плашка подключённых Bluetooth-наушников.\n• Усилен эффект «💎 Жидкое стекло» на иконках: добавлен тонкий призматический кант преломления по периметру."
 }
