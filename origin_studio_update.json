@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 95,
-    "versionName": "2.6.0-beta4",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta4/OriginOS-Studio-2.6.0-beta4.apk",
+    "versionCode": 96,
+    "versionName": "2.6.0-beta5",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta5/OriginOS-Studio-2.6.0-beta5.apk",
     "apkSizeBytes": 4328976,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Исправлены Часы (com.android.BBKClock): отключён конфликтный слой dynamic_icon/com.android.BBKClock (в OriginOS 7 лаунчер смещал стрелки вверх от центра) — теперь Часы отображаются ровной стеклянной/перекрашенной иконкой в стиле темы.\n• Исправлена Погода (com.vivo.weather): отключена принудительная подмена синей стоковой иконкой (<weatherEnabled>false</weatherEnabled>), чтобы Погода отображалась в едином стеклянном/перекрашенном стиле темы.\n• Живой Календарь (дата и день недели) и новые стеклянные виджеты (4×1 Восход, 2×1 Компакт, 2×2 Аккумулятор + Bluetooth) сохранены."
+    "changelog": "• Полный редизайн стеклянных виджетов (4×1 Восход, 2×1 Компакт, 4×2 Часы и День):\n  — адаптивный рендер по реальным размерам виджета (onAppWidgetOptionsChanged) — больше никакого сплющивания текста и дуги;\n  — увеличена ширина 4×1 (minWidth 310dp) и крупный шрифт времени (46sp / 35sp / 48sp), как на родном виджете OriginOS;\n  — более воздушное стекло с выраженным верхне-левым бликом, призматическим кантом и крупной градиентной дугой восхода."
 }
