@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 105,
-    "versionName": "2.7.0-beta6",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta6/OriginOS-Studio-2.7.0-beta6.apk",
+    "versionCode": 106,
+    "versionName": "2.7.0-beta7",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta7/OriginOS-Studio-2.7.0-beta7.apk",
     "apkSizeBytes": 4353727,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Тонкая настройка «💎 Жидкого стекла»: 3 ползунка (прозрачность стекла, насыщенность тона и яркость блика/канта) с живым предпросмотром.\n• «Мои сетапы»: сохранение всех настроек оформления в пресеты, переключение в 1 тап и обмен JSON-сетапами через Telegram.\n• Новые стеклянные виджеты: «Фото в стекле (2×2)» и «Стеклянная заметка (4×2)» с быстрым редактированием по тапу + уровень прозрачности подложки 20%."
+    "changelog": "• Добавлена 4-я форма значков — настоящий математический суперэллипс Samsung One UI (кривая Ламе n=2.75 с непрерывной плавной кривизной).\n• В режиме «💎 Жидкое стекло» призматический стеклянный кант повторяет контур суперэллипса One UI, а в .itz добавлена точная системная маска.\n• Поддержка формы One UI добавлена в «Мои сетапы»."
 }
