@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 92,
-    "versionName": "2.6.0-beta1",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta1/OriginOS-Studio-2.6.0-beta1.apk",
+    "versionCode": 93,
+    "versionName": "2.6.0-beta2",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.6.0-beta2/OriginOS-Studio-2.6.0-beta2.apk",
     "apkSizeBytes": 4320352,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Тестовая ветка Beta (пакет rk.android.app.themedicons.vivo.beta) — устанавливается рядом со стабильной версией и обновляется через отдельный канал beta.\n• Новый режим «💎 Жидкое стекло» (Liquid Glass): адаптивная полупрозрачная стеклянная линза с оптическими бликами, двойной кромкой и полноценным перекрасом значков и папок.\n• Исправлены живые значки (Календарь, Погода, Часы): убрано белое кольцо по краю, поправлен цвет и позиционирование цифр, включены живые Часы и добавлена поддержка режима стекла.\n• Исправлено скачивание сторонних виджетов из каталога: добавлены прямые ссылки на APK для 11 рабочих виджетов и резервное открытие GitHub Releases при сбое."
+    "changelog": "• Исправлено скачивание сторонних виджетов: убрано ложное определение неустановленного виджета как уже установленного — кнопка «⬇ Скачать APK» теперь сразу запускает загрузку и установку APK.\n• Исправлены живые Часы (com.android.BBKClock): убран квадрат поверх подписи «Часы», циферблат в режиме «Жидкое стекло» теперь строго по форме иконки (круг/сквиркл) и совпадает по масштабу со стрелками.\n• Исправлен живой Календарь (com.bbk.calendar) в режиме «Жидкое стекло»: стеклянная подложка теперь применяется корректно с обрезкой по форме иконки.\n• Отдельный beta-канал обновлений (ветка beta)."
 }
