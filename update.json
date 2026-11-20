@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 106,
-    "versionName": "2.7.0-beta7",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta7/OriginOS-Studio-2.7.0-beta7.apk",
-    "apkSizeBytes": 4353727,
+    "versionCode": 107,
+    "versionName": "2.7.0-beta8",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta8/OriginOS-Studio-2.7.0-beta8.apk",
+    "apkSizeBytes": 4357823,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Добавлена 4-я форма значков — настоящий математический суперэллипс Samsung One UI (кривая Ламе n=2.75 с непрерывной плавной кривизной).\n• В режиме «💎 Жидкое стекло» призматический стеклянный кант повторяет контур суперэллипса One UI, а в .itz добавлена точная системная маска.\n• Поддержка формы One UI добавлена в «Мои сетапы»."
+    "changelog": "• Эксперимент Global / GC Tune: добавлена отдельная карточка с двумя независимыми операциями «Применить иконки» и «Применить шрифт».\n• Перед применением отображается, какое приложение откроется и что нужно подтвердить; для Global выполняется экспорт совместимых .itz / .ttf в Download/OriginOS-Studio/ с честным статусом «Пакет сохранён (только экспорт)», кнопкой запуска GC Tune (com.poc.gctune) и точными шагами ручного импорта.\n• Рабочий CN-сценарий через «Темы» сохранён без изменений."
 }
