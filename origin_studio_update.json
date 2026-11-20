@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 101,
-    "versionName": "2.7.0-beta2",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta2/OriginOS-Studio-2.7.0-beta2.apk",
+    "versionCode": 102,
+    "versionName": "2.7.0-beta3",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta3/OriginOS-Studio-2.7.0-beta3.apk",
     "apkSizeBytes": 4337168,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Исправлен сброс скрытых иконок уведомлений в строке состояния: режимы OriginOS «Нет» (-2) и «Число» (-1) теперь сохраняются и не перезаписываются на показ значков после применения темы."
+    "changelog": "• Исправлен рендер собственной иконки «Студии OriginOS» (и Beta) в режиме «💎 Жидкое стекло»: теперь она корректно перекрашивается в стекло с прозрачным вырезом логотипа."
 }
