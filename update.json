@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 107,
-    "versionName": "2.7.0-beta8",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta8/OriginOS-Studio-2.7.0-beta8.apk",
+    "versionCode": 108,
+    "versionName": "2.7.0-beta9",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta9/OriginOS-Studio-2.7.0-beta9.apk",
     "apkSizeBytes": 4403032,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Новый стеклянный виджет «vivo TWS / Наушники (4×2)» в едином стиле «Жидкого стекла» OriginOS 7: использует официальный 3D-рендер кейса, живой статус и заряд подключённых Bluetooth-наушников, чистые кнопки «Шумоподавление» и «Объёмный звук» без кривых переносов и мгновенный переход в оригинальное приложение vivo TWS по тапу."
+    "changelog": "• Исправлено отображение 3 новых стеклянных виджетов («vivo TWS 4×2», «Фото в стекле 2×2», «Стеклянная заметка 4×2»): поправлен ID холста ImageView (image_back), виджеты теперь отрисовываются сразу после добавления."
 }
