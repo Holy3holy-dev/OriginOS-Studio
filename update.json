@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 108,
-    "versionName": "2.7.0-beta9",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta9/OriginOS-Studio-2.7.0-beta9.apk",
+    "versionCode": 109,
+    "versionName": "2.7.0-beta10",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta10/OriginOS-Studio-2.7.0-beta10.apk",
     "apkSizeBytes": 4403032,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Исправлено отображение 3 новых стеклянных виджетов («vivo TWS 4×2», «Фото в стекле 2×2», «Стеклянная заметка 4×2»): поправлен ID холста ImageView (image_back), виджеты теперь отрисовываются сразу после добавления."
+    "changelog": "• Исправлен фильтр устройств в стеклянном виджете «vivo TWS 4×2»: умные часы и браслеты (WEARABLE / Watch / Band) теперь игнорируются, виджет отслеживает только Bluetooth-наушники и гарнитуры."
 }
