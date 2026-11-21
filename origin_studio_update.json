@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 111,
-    "versionName": "2.7.0-beta12",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta12/OriginOS-Studio-2.7.0-beta12.apk",
+    "versionCode": 112,
+    "versionName": "2.7.0-beta13",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta13/OriginOS-Studio-2.7.0-beta13.apk",
     "apkSizeBytes": 4419582,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Коллекция из 6 форм значков: Круг, Квадрат Vivo, One UI (суперэллипс), Apple iOS (суперэллипс n=4.2), Капля (Pixel Teardrop) и Мягкий шестиугольник + Без рамки 1:1 — все с оптическим стеклянным кантом и маской .itz.\n• Генератор иконок-монограмм (в «Точечной замене»): 1–4 буквы/символа в стиле стекла/Monet/AMOLED.\n• «Студия обоев под стекло»: генератор градиентных Mesh / Aurora-обоев + тюнинг любых текущих обоев (размытие Blur и затемнение под стекло) с установкой в 1 тап.\n• Стеклянный виджет «Погода 4 дня (4×2)» на открытом Open-Meteo (выбор любого города по тапу).\n• Стеклянный виджет «Сейчас играет (4×2)» с обложкой трека и кнопками ⏮ / ⏯ / ⏭."
+    "changelog": "• Добавлена опция «Убрать белый фон мини-папок внутри папок» (включена по умолчанию): прописывает прозрачный <folder_small_color>#00000000</folder_small_color>, сохраняя живое преломляющее стекло больших папок OriginOS."
 }
