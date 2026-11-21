@@ -1,6 +1,6 @@
 # Студия OriginOS (OriginOS Studio)
 
-**Версия:** `2.7.0-beta10 (build 109) • BETA • RU / EN`  
+**Версия:** `2.7.0-beta11 (build 110) • BETA • RU / EN`  
 **Автор:** [H3H • Telegram: @holy3holy](https://t.me/holy3holy)  
 **Платформа:** Vivo / iQOO (OriginOS 4 / 5 / 6 / 7 & Funtouch OS 14–15 • Android 14–17)
 
@@ -18,7 +18,7 @@
 
 ## Скачать
 
-- **[Скачать OriginOS-Studio-2.7.0-beta10.apk (Beta, прямая ссылка)](https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta10/OriginOS-Studio-2.7.0-beta10.apk)**
+- **[Скачать OriginOS-Studio-2.7.0-beta11.apk (Beta, прямая ссылка)](https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta11/OriginOS-Studio-2.7.0-beta11.apk)**
 - **[Страница релизов GitHub](https://github.com/Holy3holy-dev/OriginOS-Studio/releases)**
 - **[Telegram-канал H3H](https://t.me/holy3holy)**
 

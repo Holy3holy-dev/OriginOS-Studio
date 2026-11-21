@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 109,
-    "versionName": "2.7.0-beta10",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta10/OriginOS-Studio-2.7.0-beta10.apk",
-    "apkSizeBytes": 4403032,
+    "versionCode": 110,
+    "versionName": "2.7.0-beta11",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta11/OriginOS-Studio-2.7.0-beta11.apk",
+    "apkSizeBytes": 4398856,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Исправлен фильтр устройств в стеклянном виджете «vivo TWS 4×2»: умные часы и браслеты (WEARABLE / Watch / Band) теперь игнорируются, виджет отслеживает только Bluetooth-наушники и гарнитуры."
+    "changelog": "• Исправлен баг с раздутой чёрной шапкой на узких экранах и при увеличенном системном шрифте: заголовок «Студия OriginOS» закреплён в одну строку, а чипы управления вынесены в аккуратную отдельную строку под ним (и больше не обрезаются справа).\n• Поправлен нижний отступ подписей вкладок навигации, чтобы текст не подрезался снизу.\n• Убран экспериментальный виджет vivo TWS."
 }
