@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 112,
-    "versionName": "2.7.0-beta13",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta13/OriginOS-Studio-2.7.0-beta13.apk",
+    "versionCode": 113,
+    "versionName": "2.7.0-beta14",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta14/OriginOS-Studio-2.7.0-beta14.apk",
     "apkSizeBytes": 4419582,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Добавлена опция «Убрать белый фон мини-папок внутри папок» (включена по умолчанию): прописывает прозрачный <folder_small_color>#00000000</folder_small_color>, сохраняя живое преломляющее стекло больших папок OriginOS."
+    "changelog": "• Добавлен 4-режимный выбор фона мини-папок внутри больших папок: Прозрачный (#00000000), Светлое стекло (#28FFFFFF), Тёмное стекло (#3C000000) или Сток OriginOS."
 }
