@@ -380,6 +380,19 @@
       "tags": "oneplus ванплас oxygenos realme oppo смартфон кириллица"
     },
     {
+      "id": "font_oplus_syssans",
+      "kind": "font",
+      "title": "OPlus Sans / SysSans (ColorOS 15)",
+      "subtitle": "Оригинальный системный вариативный шрифт ColorOS / Realme UI (SysSans-Hans-Regular) с мягкой кириллицей",
+      "author": "OPPO / OPlus Design",
+      "sampleText": "Гладкая типографика ColorOS 15",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.1/SysSans-Hans-Regular.ttf",
+      "sizeBytes": 22319068,
+      "primaryColor": "#064E3B",
+      "accentColor": "#34D399",
+      "tags": "oppo оппо oplus syssans coloros realme рилми oneplus системный смартфон кириллица"
+    },
+    {
       "id": "font_nothing_ndot",
       "kind": "font",
       "title": "Nothing NDot 47 (Nothing Phone)",
