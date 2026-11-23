@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 101,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.1.0/OriginOS-Studio-Global-1.1.0.apk",
+  "apkSizeBytes": 4681995,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
+  "changelog": "• Полностью встроенный движок активации внутри самой Студии — приложение Shizuku больше скачивать не нужно!\n• Автономный 4G / офлайн-режим: после однократной 30-секундной привязки Wi-Fi можно сразу выключить — применение системных иконок (.itz) и шрифтов (.ttf / .otf) работает и на мобильном интернете 4G без Wi-Fi\n• Удобный ввод 6-значного кода подключения прямо из шторки уведомлений Студии поверх настроек (или в плавающем окне)\n• Поддержка прямого 4G-режима без Wi-Fi через кабель USB / OTG (adb tcpip 5555) для тех, у кого вообще нет роутера\n• Сохранена автоматическая совместимость, если Shizuku уже установлен на устройстве"
+}
