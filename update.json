@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 100,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.0.0/OriginOS-Studio-Global-1.0.0.apk",
+  "apkSizeBytes": 4472830,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
+  "changelog": "• Выделена самостоятельная глобальная редакция OriginOS Studio (Global) с отдельным пакетом rk.android.app.themedicons.vivo.global и веткой обновлений global\n• Полное окрашивание и маскирование всех приложений под выбранный иконпак (<iconback>, <iconmask>, <iconupon>, <scale>) и точное выделение глифов без слепых пятен\n• Бесшовная кастомизация значков Google (YouTube, Google Play и др.) под любой иконпак без углового бейджа с автообновлением при смене темы\n• Принудительная очистка кэша лаунчера Vivo при повторном применении стилей и сохранение палитры после смены шрифта\n• Очищен раздел «Шрифты»: убраны кнопки стоковых шрифтов по умолчанию"
+}
