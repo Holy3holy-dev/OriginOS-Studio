@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 102,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.1.1/OriginOS-Studio-Global-1.1.1.apk",
+  "apkSizeBytes": 4681995,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
+  "changelog": "• Полная адаптация под OriginOS 7 Global и Android 17+ (динамический подбор сигнатур IActivityTaskManager, 3-параметровый InputManager и распознавание обновлённых экранов и кнопок магазина «Темы» v24+)\n• Полностью встроенный движок активации внутри самой Студии — приложение Shizuku скачивать не нужно\n• Автономный 4G / офлайн-режим: после однократной 30-секундной привязки Wi-Fi можно выключить — применение системных иконок (.itz) и шрифтов (.ttf / .otf) работает на мобильном интернете 4G без Wi-Fi"
+}
