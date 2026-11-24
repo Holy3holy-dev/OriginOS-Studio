@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 125,
-    "versionName": "2.7.0-beta24",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta24/OriginOS-Studio-2.7.0-beta24.apk",
-    "apkSizeBytes": 4522245,
+    "versionCode": 126,
+    "versionName": "2.7.0-beta25",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta25/OriginOS-Studio-2.7.0-beta25.apk",
+    "apkSizeBytes": 4526341,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Упрощён диалог выбора одиночного цвета (для подписей значков, акцента Центра управления и папок): убраны лишние парные элементы «Фон / Символ / Авто MD3», добавлены компактный живой предпросмотр одного цвета, быстрые пресеты популярных оттенков, одно поле #RRGGBB и отступ для маркера палитры в углах.\n• Устранено раздувание текста во всплывающем меню карточек «Недавних» (com.vivo.upslide): добавлен синхронный сброс системного ключа Vivo `font_scale_big` вместе с `font_scale` и `secondary_font_scale`, привязка к родным ступеням `persist.vivo.font_size_level`, импульс обновления конфигурации для фоновых сервисов, кнопка «↺ Исправить крупное меню (100%)» и быстрый вызов системного ползунка Vivo."
+    "changelog": "• Возвращена прямая ссылка на Telegram-канал автора H3H (`https://t.me/holy3holy`) в новом интерфейсе: фирменная карточка с иконкой Telegram на главном экране Мастерской («Студия») и карточка «Разработчик и сообщество» сразу на первой вкладке «Система → Основное».\n• Включает все улучшения `beta24`: лаконичный диалог выбора одного цвета и синхронный сброс `font_scale_big` для всплывающих меню карточек в «Недавних»."
 }
