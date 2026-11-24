@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 103,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.1.2/OriginOS-Studio-Global-1.1.2.apk",
+  "apkSizeBytes": 4690187,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
+  "changelog": "• Исправлена подмена иконок у игр на общих движках Unreal Engine / Unity / Godot (PUBG Mobile и Delta Force больше не перекрывают друг друга)\n• Исправлена обрезка нижней половины у акционных и двухцветных иконок (Wildberries и др.): внедрён построчно-волновой алгоритм выделения логотипа\n• Режим Nothing Dot Matrix: системные значки Google (Chrome, Кошелёк и др.) теперь автоматически получают тёмную матричную подложку вместо белых/серых кружков\n• Обновлён мастер «Значки Google 1:1»: добавление любого значка в 1 тап кнопкой «＋», быстрый переключатель «Без подписи» и мгновенное открытие"
+}
