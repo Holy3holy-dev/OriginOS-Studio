@@ -1,6 +1,386 @@
 {
   "items": [
     {
+      "id": "itz_oneyou_adaptive",
+      "kind": "iconpack",
+      "title": "OneYou Adaptive (36 400+)",
+      "subtitle": "Мега-коллекция из 36 400+ адаптивных значков в стиле One UI / Material You • Умная оптимизация под смартфон",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/OneYou_Adaptive.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_oneyou_adaptive_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_oneyou_adaptive_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_oneyou_adaptive_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_oneyou_adaptive_3.png"
+      ],
+      "primaryColor": "#1E2638",
+      "accentColor": "#93C5FD",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 1736421544,
+      "tags": "oneyou oneui adaptive material you гигантский темные пастельные oosthemes itz"
+    },
+    {
+      "id": "itz_pix_material_v2",
+      "kind": "iconpack",
+      "title": "Pix Material V2 (18 600+)",
+      "subtitle": "18 600+ тёмных адаптивных значков Google Pixel Material You второго поколения для OriginOS",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/PixMaterial_V2.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_pix_material_v2_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_pix_material_v2_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_pix_material_v2_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_pix_material_v2_3.png"
+      ],
+      "primaryColor": "#202126",
+      "accentColor": "#C7D7FE",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 129578912,
+      "tags": "pix pixel material v2 dark monet гугл пиксель oosthemes itz"
+    },
+    {
+      "id": "itz_colordark16",
+      "kind": "iconpack",
+      "title": "ColorOS 16 Dark",
+      "subtitle": "6 460+ глубоких тёмных значков флагманской оболочки ColorOS 16 с сочными неоновыми глифами",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/ColorDark16.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_colordark16_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_colordark16_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_colordark16_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_colordark16_3.png"
+      ],
+      "primaryColor": "#14161D",
+      "accentColor": "#38BDF8",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 235266566,
+      "tags": "coloros 16 dark oppo oneplus темные цветные неон amoled itz"
+    },
+    {
+      "id": "itz_colordark_mint",
+      "kind": "iconpack",
+      "title": "ColorOS 16 Dark Mint",
+      "subtitle": "6 540+ значков ColorOS 16 в графитово-мятной палитре с изумрудными акцентами",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/ColorDarkMint.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_colordark_mint_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_colordark_mint_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_colordark_mint_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_colordark_mint_3.png"
+      ],
+      "primaryColor": "#0F2421",
+      "accentColor": "#34D399",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 250776264,
+      "tags": "coloros 16 mint мята изумруд зеленые темные oosthemes itz"
+    },
+    {
+      "id": "itz_colordark16_red",
+      "kind": "iconpack",
+      "title": "ColorOS 16 Dark Red",
+      "subtitle": "6 530+ тёмных значков ColorOS 16 с фирменным рубиново-красным акцентом OnePlus",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/ColorDark16Red.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_colordark16_red_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_colordark16_red_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_colordark16_red_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_colordark16_red_3.png"
+      ],
+      "primaryColor": "#261015",
+      "accentColor": "#FB7185",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 164940678,
+      "tags": "coloros 16 red красные рубин oneplus темные amoled oosthemes itz"
+    },
+    {
+      "id": "itz_coloros16_black",
+      "kind": "iconpack",
+      "title": "ColorOS 16 Pure Black",
+      "subtitle": "6 530+ контрастных значков ColorOS 16 на угольно-чёрной подложке для OLED-дисплеев",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/ColorOS16Black.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros16_black_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros16_black_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros16_black_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros16_black_3.png"
+      ],
+      "primaryColor": "#0D0E12",
+      "accentColor": "#E2E8F0",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 153601113,
+      "tags": "coloros 16 black черные amoled oled монохром контраст itz"
+    },
+    {
+      "id": "itz_coloros_blue",
+      "kind": "iconpack",
+      "title": "ColorOS 16 Sapphire Blue",
+      "subtitle": "6 530+ значков ColorOS 16 в насыщенном сапфирово-синем оттенке",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/ColorOSBlue.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros_blue_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros_blue_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros_blue_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros_blue_3.png"
+      ],
+      "primaryColor": "#0F1F3D",
+      "accentColor": "#60A5FA",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 187735007,
+      "tags": "coloros 16 blue синие сапфир голубые itz"
+    },
+    {
+      "id": "itz_coloros_violet",
+      "kind": "iconpack",
+      "title": "ColorOS 16 Royal Violet",
+      "subtitle": "6 530+ значков ColorOS 16 в глубоком аметистово-фиолетовом стиле",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/ColorOSViolet.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros_violet_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros_violet_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros_violet_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros_violet_3.png"
+      ],
+      "primaryColor": "#22143B",
+      "accentColor": "#C084FC",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 198848186,
+      "tags": "coloros 16 violet purple фиолетовые лаванда аметист itz"
+    },
+    {
+      "id": "itz_iglass_color",
+      "kind": "iconpack",
+      "title": "iGlass Color (3D Стекло)",
+      "subtitle": "6 190+ полупрозрачных стеклянных цветных иконок с мягким объёмным бликом",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/iGlassColor.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_iglass_color_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_iglass_color_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_iglass_color_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_iglass_color_3.png"
+      ],
+      "primaryColor": "#16243B",
+      "accentColor": "#7DD3FC",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 85633756,
+      "tags": "iglass glass стекло прозрачные 3d цветные ios origin itz"
+    },
+    {
+      "id": "itz_iliquid_dark",
+      "kind": "iconpack",
+      "title": "iLiquid Dark (Жидкое стекло)",
+      "subtitle": "6 710+ тёмных глянцевых значков в эстетике жидкого стекла iOS 26",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/iLiquidDark.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_iliquid_dark_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_iliquid_dark_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_iliquid_dark_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_iliquid_dark_3.png"
+      ],
+      "primaryColor": "#121826",
+      "accentColor": "#94A3B8",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 46345253,
+      "tags": "iliquid liquid glass жидкое стекло ios 26 dark темные глянец itz"
+    },
+    {
+      "id": "itz_black_ios26",
+      "kind": "iconpack",
+      "title": "Black iOS 26 AMOLED",
+      "subtitle": "6 710+ полноцветных значков в тёмном стиле Apple iOS 26 на графитовой подложке",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/BlackiOS26.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_black_ios26_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_black_ios26_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_black_ios26_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_black_ios26_3.png"
+      ],
+      "primaryColor": "#11131A",
+      "accentColor": "#60A5FA",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 73799887,
+      "tags": "black ios 26 iphone apple темные черные цветные amoled itz"
+    },
+    {
+      "id": "itz_m3_black",
+      "kind": "iconpack",
+      "title": "Material 3 Black (AMOLED)",
+      "subtitle": "6 540+ минималистичных значков Material 3 Expressive на глубоком чёрном фоне",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/M3_Black_Icons.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_m3_black_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_m3_black_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_m3_black_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_m3_black_3.png"
+      ],
+      "primaryColor": "#121215",
+      "accentColor": "#D8B4FE",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 130245942,
+      "tags": "m3 material 3 black черные amoled pixel минимализм itz"
+    },
+    {
+      "id": "itz_m3_white",
+      "kind": "iconpack",
+      "title": "Material 3 White (Дневной)",
+      "subtitle": "6 540+ светлых контрастных значков Material 3 на чистой белой подушке",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/M3_White_Icons.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_m3_white_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_m3_white_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_m3_white_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_m3_white_3.png"
+      ],
+      "primaryColor": "#E2E8F0",
+      "accentColor": "#3B82F6",
+      "iconStyle": 1,
+      "darkPreset": false,
+      "sizeBytes": 123198530,
+      "tags": "m3 material 3 white белые светлые дневные минимализм itz"
+    },
+    {
+      "id": "itz_blackux_amoled",
+      "kind": "iconpack",
+      "title": "BlackUX One UI Dark",
+      "subtitle": "6 810+ лаконичных значков в тёмной эстетике Samsung One UI • Компактный вес 21 МБ",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/BlackUX_AMOLED.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_blackux_amoled_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_blackux_amoled_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_blackux_amoled_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_blackux_amoled_3.png"
+      ],
+      "primaryColor": "#111827",
+      "accentColor": "#38BDF8",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 21644764,
+      "tags": "blackux samsung oneui dark черные компактный oosthemes itz"
+    },
+    {
+      "id": "itz_whiux_light",
+      "kind": "iconpack",
+      "title": "Whiux Light Minimal",
+      "subtitle": "6 720+ воздушных светлых значков с цветными символами • Компактный вес 21 МБ",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/Whiux_Light.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_whiux_light_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_whiux_light_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_whiux_light_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_whiux_light_3.png"
+      ],
+      "primaryColor": "#F1F5F9",
+      "accentColor": "#2563EB",
+      "iconStyle": 1,
+      "darkPreset": false,
+      "sizeBytes": 21928201,
+      "tags": "whiux white светлые белые минимализм цветные oosthemes itz"
+    },
+    {
+      "id": "itz_disco_icons",
+      "kind": "iconpack",
+      "title": "Disco Colorful Icons",
+      "subtitle": "1 335 ярких авторских значков с выразительной ретро-неоновой палитрой и контуром",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/DiscoIcons.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_disco_icons_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_disco_icons_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_disco_icons_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_disco_icons_3.png"
+      ],
+      "primaryColor": "#2A1538",
+      "accentColor": "#F472B6",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 90361456,
+      "tags": "disco диско яркие цветные ретро неон необычные itz"
+    },
+    {
+      "id": "itz_coloros_classic_dark",
+      "kind": "iconpack",
+      "title": "ColorOS Dark Classic",
+      "subtitle": "467 классических тёмных системных и популярных значков ColorOS в высоком разрешении",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/ColorOS_Dark_Classic.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros_classic_dark_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros_classic_dark_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros_classic_dark_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_coloros_classic_dark_3.png"
+      ],
+      "primaryColor": "#171B26",
+      "accentColor": "#4ADE80",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 38333340,
+      "tags": "coloros classic dark темные системные oppo itz"
+    },
+    {
+      "id": "itz_harmony_dark",
+      "kind": "iconpack",
+      "title": "HarmonyOS NEXT Dark",
+      "subtitle": "588 фирменных тёмных значков в стиле флагманской оболочки Huawei HarmonyOS NEXT",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/HarmonyDark.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_harmony_dark_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_harmony_dark_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_harmony_dark_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_harmony_dark_3.png"
+      ],
+      "primaryColor": "#181D29",
+      "accentColor": "#60A5FA",
+      "iconStyle": 1,
+      "darkPreset": true,
+      "sizeBytes": 17653501,
+      "tags": "harmony harmonyos huawei dark темные oosthemes itz"
+    },
+    {
+      "id": "itz_onewhite_ui2",
+      "kind": "iconpack",
+      "title": "OneWhite UI 2 (Лёгкий)",
+      "subtitle": "288 чистых светлых системных значков в стиле One UI • Мгновенная загрузка (4 МБ)",
+      "author": "@oosthemes",
+      "downloadUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/catalog-itz-v1/OneWhiteUI2.itz",
+      "sampleIconUrls": [
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_onewhite_ui2_0.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_onewhite_ui2_1.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_onewhite_ui2_2.png",
+        "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog_previews/itz_onewhite_ui2_3.png"
+      ],
+      "primaryColor": "#EEF2F6",
+      "accentColor": "#0EA5E9",
+      "iconStyle": 1,
+      "darkPreset": false,
+      "sizeBytes": 4318082,
+      "tags": "onewhite white oneui светлые белые легкий системные itz"
+    },
+    {
       "id": "pack_pix_material_you",
       "kind": "iconpack",
       "title": "Pix Material You Light/Dark",
