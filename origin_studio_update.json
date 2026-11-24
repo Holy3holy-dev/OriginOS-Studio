@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 120,
-    "versionName": "2.7.0-beta19",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta19/OriginOS-Studio-2.7.0-beta19.apk",
-    "apkSizeBytes": 4509694,
+    "versionCode": 121,
+    "versionName": "2.7.0-beta20",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta20/OriginOS-Studio-2.7.0-beta20.apk",
+    "apkSizeBytes": 4468734,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Исправлена подмена и склеивание иконок у игр на общих движках (Unity, Supercell, Unreal Engine, Godot, Cocos2d-x, Flutter и др.) — теперь каждая игра на рабочем столе получает строго свою собственную иконку.\n• Исправлена точечная ручная замена значка для игр и приложений с несколькими точками запуска: выбранная вручную иконка теперь одинаково применяется и в настройках системы, и на рабочем столе OriginOS.\n• Сохранены доработки редизайна «Мастерская», точная геометрия фигурных значков без рамки и исправление пользовательских цветовых пар."
+    "changelog": "• Исправлено пропадание кнопки «Применить» в системном окне предпросмотра значков и тем на китайской OriginOS 6 (iQOO Z9 / Z9T CN и другие модели vivo / iQOO CN) при включённом интернете или повторном открытии пакета.\n• Исправлено ложное переключение китайской прошивки в Global-режим: проверка системного региона ro.vivo.product.overseas теперь выполняется с наивысшим приоритетом.\n• Исправлен парсинг названий при импорте сторонних .itz-архивов (устранено отображение сырого XML-тега <title locale=\"...\"> в заголовке предпросмотра + добавлена автоматическая очистка уже импортированных наборов).\n• Убрано дублирование второй карточки предпросмотра 3×3 в системном окне применения значков."
 }
