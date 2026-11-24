@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 107,
+  "versionName": "1.1.6",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.1.6/OriginOS-Studio-Global-1.1.6.apk",
+  "apkSizeBytes": 4718859,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
+  "changelog": "• Устранено предупреждение Google Play Защиты при установке («Это приложение было разработано для более ранней версии Android»): целевой API обновлён до современного Android 15 (targetSdkVersion 35) с полной поддержкой правил безопасности Android 14–16\n• Быстрая отмена поставленных иконок в 1 нажатие («↺ В сток» на главном экране и в нижней панели редактора иконок) без сброса ваших обоев и системного шрифта\n• Возвращена кнопка Telegram-канала автора (t.me/holy3holy) в верхнюю шапку, на главный экран «Мастерской» и во вкладку «Система»\n• Все улучшения 1.1.4: сопряжение на Android 14–16 и при включённом VPN, плавная анимация открытия/закрытия приложений, покраска пилюль 2×1 («Темы», «Настройки») и обновлённая линза «Жидкого стекла»"
+}
