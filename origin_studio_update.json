@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 113,
+  "versionName": "1.2.2",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.2.2/OriginOS-Studio-Global-1.2.2.apk",
+  "apkSizeBytes": 4743435,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Исправлена смена стиля системного шрифта на Global OriginOS во всех регионах (Россия, Казахстан, Беларусь, Украина, Европа и Азия): старые региональные ID, переводившие на платные шрифты и менявшие только жирность текста, заменены на единый мировой пул 100% бесплатных карточек с защитой от нажатия на «Купить / Пробная версия» и непустым HEX-идентификатором пакета\n• Исправлен сброс импорта .itz / .mtz / .zip и .ttf при запуске Студии в плавающем смарт-окне боковой панели OriginOS: добавлена поддержка смены оконного режима без пересоздания Activity и встроенный быстрый выбор скачанных файлов из Download / Telegram в 1 касание\n• Полностью устранена заглушка «Нет ресурсов» в приложении Тем Vivo по всему миру: пул тем переведён на кросс-региональные бесплатные слоты (RU / EU / ASIA) с автоматическим переключением на резервный слот при любой сетевой или региональной ошибке карточки"
+}
