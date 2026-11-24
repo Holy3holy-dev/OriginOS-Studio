@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 110,
+  "versionName": "1.1.9",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.1.9/OriginOS-Studio-Global-1.1.9.apk",
+  "apkSizeBytes": 4735243,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Исправлен реальный системный перекрас всех 30 приложений Google (Chrome, Телефон, Сообщения, YouTube, Play Маркет, Gmail, Карты, Кошелёк и др.) на рабочем столе, в доке и в папках: синхронизирован точный порядок флагов лаунчера Vivo (themed_icon_enabled -> material_you_overlay_enable 0->1), добавлена автоактивация при обновлении APK и при выборе любых сторонних иконпаков / импортированных .itz, а также живой переключатель прямо на вкладке «Стиль»\n• Снят лимит размера при импорте и применении кастомных архивов .itz / .mtz / .zip — теперь поддерживаются гигантские наборы иконок до 8 ГБ! Внедрена потоковая распаковка с умной фильтрацией под реально установленные на смартфоне приложения и системные сервисы Vivo, благодаря чему даже 2–5 ГБ архивы на десятки тысяч PNG применяются на рабочий стол за пару секунд без зависаний\n• Полностью устранён баг с «залипанием» значков на скачанной ранее чужой теме из магазина Тем Vivo: изолирован пустой packageId в ThemeItem, синтетический usePackId и автоподбор чистого слота в базе ResDbUtils"
+}
