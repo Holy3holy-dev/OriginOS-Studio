@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 129,
-    "versionName": "2.7.0-beta28",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta28/OriginOS-Studio-2.7.0-beta28.apk",
-    "apkSizeBytes": 4514053,
+    "versionCode": 130,
+    "versionName": "2.7.0-beta29",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta29/OriginOS-Studio-2.7.0-beta29.apk",
+    "apkSizeBytes": 4518149,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Исправлена ошибка нехватки памяти (`OutOfMemoryError: Failed to allocate 268435472 byte allocation`) при импорте крупных сторонних `.itz` и `.zip` файлов (200+ МБ и наборов значков до `1.5+ ГБ`): все конвейеры импорта и распаковки (`VivoThemePackager`, `VivoFullThemeBuilder`, `VivoPreviewLauncher`) переведены на потоковую обработку на диске через центральный каталог `ZIP64` с постоянным расходом ОЗУ `~20–30 МБ`, а также включён `android:largeHeap=\"true\"`.\n• Поддержка гигантских иконпаков (`1.5+ ГБ`, десятки тысяч иконок / текстуры `1024–2048 px`, включая архивы с `appfilter.xml` и тяжёлые APK-паки): прямое открытие с `/sdcard` без дублирования файла, умная выборка значков под установленные и системные приложения Vivo и автоматическое масштабирование сверхкрупных текстур до эталонных `240×240 px`.\n• Автораспознавание полных тем `.itz` во вкладке «Иконки → Наборы → Импорт .itz / .zip»: если выбран файл полной темы (с обоями, экраном блокировки и системными модулями), Студия за пару миллисекунд определяет его тип и предлагает в 1 касание либо применить всю тему целиком, либо извлечь из неё только значки."
+    "changelog": "• Исправлена ошибка `ZipFile invalid LOC header (bad signature)` при импорте сторонних `.itz` иконпаков (таких как `ColorDark16.itz` 216 МБ с частично перезаписанными начальными заголовками записей): движок импорта теперь проверяет целостность каждой записи до упаковки, автоматически пропускает повреждённые записи и при сбое вложенного контейнера читает живые иконки напрямую из архива.\n• Полная совместимость с гигантскими сторонними `.itz` наборами значков (проверено на 20 пакетах от 4 МБ до `OneYou 1.66 ГБ` на 36 000+ иконок, включая пакеты `@oosthemes` и WebP-иконки внутри `.png`): сохранение авторского масштаба `launcher/iconsize.xml` и масок `launcher/*`, прямое чтение без промежуточного диалога полной темы и автоматическая очистка шаблонного китайского имени донорской темы (`萌萌猫猫`) в пользу реального имени файла."
 }
