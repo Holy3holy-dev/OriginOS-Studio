@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 126,
-    "versionName": "2.7.0-beta25",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta25/OriginOS-Studio-2.7.0-beta25.apk",
-    "apkSizeBytes": 4526341,
+    "versionCode": 127,
+    "versionName": "2.7.0-beta26",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta26/OriginOS-Studio-2.7.0-beta26.apk",
+    "apkSizeBytes": 4505861,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Возвращена прямая ссылка на Telegram-канал автора H3H (`https://t.me/holy3holy`) в новом интерфейсе: фирменная карточка с иконкой Telegram на главном экране Мастерской («Студия») и карточка «Разработчик и сообщество» сразу на первой вкладке «Система → Основное».\n• Включает все улучшения `beta24`: лаконичный диалог выбора одного цвета и синхронный сброс `font_scale_big` для всплывающих меню карточек в «Недавних»."
+    "changelog": "• Полностью удалён встроенный экран собственного лаунчера (`OriginHomeLauncherActivity` / `category.HOME`): приложение больше никогда не появляется в выборе домашнего экрана, все функции работают исключительно со стандартным системным лаунчером Vivo (`BBKLauncher2`).\n• `TTF Fixer` для узких русских меню китайской OriginOS 7: добавлены компактные ступени масштаба (`72%`, `78%`), бинарное сжатие горизонтальной ширины букв (`Condensed` `92% / 84% / 76%` по таблицам `glyf` + `loca` + `hmtx`), пресет «Вместить меню RU» и живой мини-макет узкого всплывающего меню карточек «Недавних».\n• Добавлена уникализация записей таблицы `name` под активные метрики шрифта, исключающая возврат старого не-сжатого шрифта из кэша."
 }
