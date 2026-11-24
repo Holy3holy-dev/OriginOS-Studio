@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 108,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.1.7/OriginOS-Studio-Global-1.1.7.apk",
+  "apkSizeBytes": 4727051,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Исправлена ошибка памяти «Failed to allocate a 201326608 / 134217744 byte allocation» при сборке иконок на 350+ приложениях и импорте тяжёлых тем: упаковка переведена на потоковые файлы на диске + включён расширенный буфер памяти (largeHeap)\n• Полная поддержка импорта сторонних .itz, .zip и Xiaomi MIUI/HyperOS .mtz иконок (с автоматическим переносом значков в формат Vivo и чистым чтением названий без XML-тегов)\n• Исправлены вылеты сторонних приложений после установки кастомного шрифта (убрана очистка системного кэша шрифтов GMS/Emoji и добавлена защита от несовместимых CFF .otf файлов)\n• Исправлен запуск перекрашенных банковских ярлыков (SberPay, T-Pay, оплата, чаты): запуск выполняется напрямую через системный LauncherApps.startShortcut без обрезки внутренних ссылок\n• Исправлен стоковый полупрозрачный тёмный стеклянный фон папок на тёмных обоях (вместо светло-серой заливки) + добавлены режимы «Тёмное стекло» и «Светлое стекло»\n• В Каталог → «Иконпаки» добавлен встроенный офлайн-набор «OriginOS Liquid Glass (Жидкое стекло)» и прямые резервные ссылки для всех облачных APK-паков\n• Устранено ложное предупреждение встроенного антивируса Vivo iManager («Приложение с признаками рекламы»)"
+}
