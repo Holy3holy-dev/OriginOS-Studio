@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 131,
-    "versionName": "2.7.0-beta30",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta30/OriginOS-Studio-2.7.0-beta30.apk",
+    "versionCode": 132,
+    "versionName": "2.7.0-beta31",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta31/OriginOS-Studio-2.7.0-beta31.apk",
     "apkSizeBytes": 4522245,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/beta/catalog.json",
-    "changelog": "• В онлайн-каталог («Каталог → Иконпаки») добавлены 19 новых прямых наборов значков `.itz` для OriginOS (включая `OneYou Adaptive` 36 400+ иконок, `Pix Material V2` 18 600+, всю линейку `ColorOS 16 Dark / Mint / Red / Black / Blue / Violet`, `iGlass Color`, `iLiquid Dark`, `Black iOS 26`, `Material 3 Black & White`, `BlackUX`, `Whiux`, `Disco`, `HarmonyOS NEXT Dark` и `OneWhite UI 2`).\n• Живые миниатюры 4 реальных значков для каждой карточки нового набора и прямое скачивание и применение `.itz`-паков в 1 касание прямо из витрины каталога без установки отдельных APK."
+    "changelog": "• Исправлен сброс пользовательского шрифта при применении полной темы со шторкой и импортированных тем `.itz`: системный пакет `com.bbk.theme` больше не вызывает `AllFontApply` (модуль `0x73`) и не затирает `/data/vfonts/VivoFont.ttf` заводским полужирным шрифтом.\n• Компактное меню карточек в «Недавних» без узкого шрифта в Telegram: разделены системная ступень масштаба `sp` Vivo (`80% / 90% / 100%`) и метрики `.ttf` при 100% круглой ширине букв, убран принудительный сброс `sp` в `100%` при установке шрифта и удалён неработающий на китайской OriginOS строковый оверлей `com.vivo.recents`."
 }
