@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 130,
-    "versionName": "2.7.0-beta29",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta29/OriginOS-Studio-2.7.0-beta29.apk",
-    "apkSizeBytes": 4518149,
+    "versionCode": 131,
+    "versionName": "2.7.0-beta30",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta30/OriginOS-Studio-2.7.0-beta30.apk",
+    "apkSizeBytes": 4522245,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
-    "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Исправлена ошибка `ZipFile invalid LOC header (bad signature)` при импорте сторонних `.itz` иконпаков (таких как `ColorDark16.itz` 216 МБ с частично перезаписанными начальными заголовками записей): движок импорта теперь проверяет целостность каждой записи до упаковки, автоматически пропускает повреждённые записи и при сбое вложенного контейнера читает живые иконки напрямую из архива.\n• Полная совместимость с гигантскими сторонними `.itz` наборами значков (проверено на 20 пакетах от 4 МБ до `OneYou 1.66 ГБ` на 36 000+ иконок, включая пакеты `@oosthemes` и WebP-иконки внутри `.png`): сохранение авторского масштаба `launcher/iconsize.xml` и масок `launcher/*`, прямое чтение без промежуточного диалога полной темы и автоматическая очистка шаблонного китайского имени донорской темы (`萌萌猫猫`) в пользу реального имени файла."
+    "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/beta/catalog.json",
+    "changelog": "• В онлайн-каталог («Каталог → Иконпаки») добавлены 19 новых прямых наборов значков `.itz` для OriginOS (включая `OneYou Adaptive` 36 400+ иконок, `Pix Material V2` 18 600+, всю линейку `ColorOS 16 Dark / Mint / Red / Black / Blue / Violet`, `iGlass Color`, `iLiquid Dark`, `Black iOS 26`, `Material 3 Black & White`, `BlackUX`, `Whiux`, `Disco`, `HarmonyOS NEXT Dark` и `OneWhite UI 2`).\n• Живые миниатюры 4 реальных значков для каждой карточки нового набора и прямое скачивание и применение `.itz`-паков в 1 касание прямо из витрины каталога без установки отдельных APK."
 }
