@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 112,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.2.1/OriginOS-Studio-Global-1.2.1.apk",
+  "apkSizeBytes": 4739339,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Исправлено применение иконок на iQOO Z10R и всех глобальных смартфонах Vivo / iQOO (как при импорте своих .itz / .mtz / .zip, так и при выборе стилей Студии и тем Каталога): устранён отсев сторонних приложений в shell-процессе, синхронизирован синтетический packageId == usePackId в SystemStyleApply, обновлён пул реальных бесплатных карточек глобального сервера Vivo и добавлен принудительный сброс бело-серых квадратов MonochromeIcons.apk\n• Исправлена ошибка «Не удалось обработать пакет.» на иконпаках @oosthemes (ColorOS 16 Dark Mint / Pure Black / OneYou и др.) в разделе «Каталог → Иконпаки»: облачные наборы в формате .itz теперь автоматически распознаются, бесшовно мигрируются из локального кэша без повторного скачивания и применяются напрямую без системного установщика APK\n• Улучшена стабильность встроенного движка после перезагрузки смартфона: оба mDNS-слушателя (автоподключение и 6-значный код) работают параллельно с поддержкой сокетов на Wi-Fi интерфейсе Android 15–16, а перед открытием экрана Тем убрано ложное мелькание диалога «Включите отладку»"
+}
