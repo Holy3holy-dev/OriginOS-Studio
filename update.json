@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 114,
+  "versionName": "1.2.3",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.2.3/OriginOS-Studio-Global-1.2.3.apk",
+  "apkSizeBytes": 4751627,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Добавлены системные эмодзи с iPhone (Apple iOS 26.4 Emoji, 4 500+ объёмных 3D-смайлов) без root в 1 касание — доступны отдельной кнопкой во вкладке «Шрифты» и первой карточкой в Каталоге\n• Добавлена полная поддержка цветных эмодзи-пакетов (CBDT/CBLC, COLR/CPAL, sbix) и Magisk-архивов .zip до 180 МБ с потоковой упаковкой без нагрузки на оперативную память\n• Встроена автоматическая защита системных часов, пробелов и цифр 0–9 при установке любых сторонних пакетов эмодзи (перенос цифр и знаков #, *, ©, ®, ™ в Format 14 Non-Default UVS только для селектора U+FE0F)"
+}
