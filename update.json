@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 124,
-    "versionName": "2.7.0-beta23",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta23/OriginOS-Studio-2.7.0-beta23.apk",
-    "apkSizeBytes": 4518149,
+    "versionCode": 125,
+    "versionName": "2.7.0-beta24",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta24/OriginOS-Studio-2.7.0-beta24.apk",
+    "apkSizeBytes": 4522245,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
-    "changelog": "• Исправлено применение пользовательских шрифтов и TTF Fixer на OriginOS 7: физическое удаление кэш-таблиц VDMX/hdmx/LTSH со строгой сортировкой SFNT-каталога и пересчётом контрольной суммы OpenType (0xB1B0AFBA), замер реальных границ цифр и букв по таблицам cmap/loca/glyf без завышения межстрочного интервала и кнопка «↺ Сбросить 100%» для мгновенного возврата системного масштаба текста.\n• Исправлено применение акцента Центра управления (шторки) и цвета подписей рабочего стола: полные темы на китайской OriginOS 7 теперь разворачиваются и применяются по штатному каналу системного стиля (SystemStyleApply + MoodCube config.xml с монотонной версией и атрибутом colorValue + саб-оверлеи com.bbk.launcher2, com.android.systemui и com.vivo.systemuiplugin).\n• Обновлён фоновый хранитель системного стиля (StyleGuard): при активной полной теме сохраняет системный акцент Центра управления, очищая только принудительный Ч/Б фильтр статус-бара."
+    "changelog": "• Упрощён диалог выбора одиночного цвета (для подписей значков, акцента Центра управления и папок): убраны лишние парные элементы «Фон / Символ / Авто MD3», добавлены компактный живой предпросмотр одного цвета, быстрые пресеты популярных оттенков, одно поле #RRGGBB и отступ для маркера палитры в углах.\n• Устранено раздувание текста во всплывающем меню карточек «Недавних» (com.vivo.upslide): добавлен синхронный сброс системного ключа Vivo `font_scale_big` вместе с `font_scale` и `secondary_font_scale`, привязка к родным ступеням `persist.vivo.font_size_level`, импульс обновления конфигурации для фоновых сервисов, кнопка «↺ Исправить крупное меню (100%)» и быстрый вызов системного ползунка Vivo."
 }
