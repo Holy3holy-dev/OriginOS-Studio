@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 106,
+  "versionName": "1.1.5",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.1.5/OriginOS-Studio-Global-1.1.5.apk",
+  "apkSizeBytes": 4718859,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/main/catalog.json",
+  "changelog": "• Быстрая отмена поставленных иконок в 1 нажатие («↺ В сток» прямо в нижней панели редактора иконок и на главном экране «Мастерской»): мгновенно возвращает заводские значки Vivo и очищает кэш лаунчера БЕЗ сброса ваших обоев и системного шрифта\n• Возвращена кнопка Telegram-канала автора (t.me/holy3holy) в верхнюю шапку приложения, на главный экран «Мастерской» и во вкладку «Система»\n• Включает все улучшения 1.1.4: подключение на Android 14–16 и при активном VPN, плавная штатная анимация открытия/закрытия приложений, покраска широких пилюль 2×1 («Темы», «Настройки») и обновлённая линза «Жидкого стекла»"
+}
