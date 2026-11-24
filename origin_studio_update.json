@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 111,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.2.0/OriginOS-Studio-Global-1.2.0.apk",
+  "apkSizeBytes": 4735243,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Исправлено применение кастомных иконок из архивов .itz / .mtz / .zip, сторонних APK-иконпаков и стилей «Жидкое стекло» / «AMOLED» / «Nothing Dot Matrix»: системный флаг Android Monet (themed_icon_enabled) больше не перекрывает текстуры значков плоскими двухцветными кружками! При первом открытии 1.2.0 уже импортированные наборы .itz автоматически проявляются на рабочем столе 1:1\n• Возвращено 100% оригинальное живое аппаратное размытие обоев и стеклянный контур стоковых папок OriginOS (OriginFolderIconBlurView): в режиме папок «Родной (OriginOS)» убран блокирующий размытие тег <folder_color> из launcher/iconsize.xml — теперь папки выглядят неотличимо от стока OriginOS\n• Добавлена мгновенная побайтовая 1:1 пересборка импортированного пакета .itz при повторном нажатии «Применить иконки» (с сохранением всех авторских PNG, масок и живых значков без перекодирования и обрезки), а системный автоперекрас всех 30 приложений Google оставлен по умолчанию для чистого стиля «Material You» с возможностью ручного включения в 1 клик"
+}
