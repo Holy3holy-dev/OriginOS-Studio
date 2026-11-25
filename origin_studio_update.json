@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 120,
+  "versionName": "1.2.9",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.2.9/OriginOS-Studio-Global-1.2.9.apk",
+  "apkSizeBytes": 4763915,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Исправлен пустой прозрачный виджет «Погода 4 дня (4×2)» (а также «Фото в стекле 2×2» и «Быстрая заметка 4×2»): устранена ошибка привязки RemoteViews к несуществующему ID ресурса и добавлен предпросмотр при закреплении\n• Убран синий угловой значок OriginOS Studio при выносе значков Google 1×1 из иконпака: по умолчанию активирован режим «✨ Чистый виджет 1×1 (0% значка Студии в углу)»\n• Исправлена шестиугольная обрезка значков Google при применении полноразмерных квадратных иконпаков и импортированных .itz/.mtz\n• Расширено покрытие системных приложений на глобальных Vivo / iQOO (включая iManager com.vivo.imanager, Камеру, Настройки, Темы, EasyShare) и добавлена автоподложка в цвет пака для непокрытых игр при импорте паков ColorOS 16 / OxygenOS 16 / HyperOS / китайских .itz"
+}
