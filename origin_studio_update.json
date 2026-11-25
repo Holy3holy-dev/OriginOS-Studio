@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 119,
+  "versionName": "1.2.8",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.2.8/OriginOS-Studio-Global-1.2.8.apk",
+  "apkSizeBytes": 4759819,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Исправлена синхронизация цвета системных и Google-значков со стилем Студии на Global OriginOS: добавлена прямая запись палитры в системный сервис Vivo ThemeIconManager (setColorWheelForSystemMY / setColorModeForSystem) и устранён сброс material_you_overlay_enable, возвращавший старый цвет из обычных Настроек телефона\n• Добавлен полный перекрас растянутых иконок приложений (1×2, 2×1, 2×2) во всех стилях Студии («Жидкое стекло», «AMOLED», «Material You», «Nothing Dot Matrix», иконпаки) без ограничения в 56 пакетов и с поддержкой сетки 5×6 (_single.png / icons/5x6/)\n• Сохранены все улучшения 1.2.3–1.2.7: полупрозрачный стеклянный корпус сервисов Google без квадрата внутри, работа Тем Vivo под VPN и 3D-эмодзи с iPhone (Apple iOS 26.4 Emoji)"
+}
