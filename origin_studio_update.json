@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 115,
+  "versionName": "1.2.4",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.2.4/OriginOS-Studio-Global-1.2.4.apk",
+  "apkSizeBytes": 4751627,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Полностью устранён пустой экран «Нет ресурсов» в системных Темах Vivo при установке шрифтов, эмодзи, полных тем и иконок (в том числе при включённом VPN на прошивках RU / EU / ASIA)\n• Карточки предпросмотра тем и шрифтов переведены на реальные числовые идентификаторы бесплатных ресурсов всех трёх региональных кластеров Vivo (ru-theme-api, eu-theme-api, asia-theme-api) с автоматической ротацией слотов\n• Сохранены все возможности 1.2.3: системные 3D-эмодзи с iPhone (Apple iOS 26.4 Emoji) в 1 касание без root и автозащита шрифта системных часов и цифр 0–9"
+}
