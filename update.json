@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 117,
+  "versionName": "1.2.6",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.2.6/OriginOS-Studio-Global-1.2.6.apk",
+  "apkSizeBytes": 4755723,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Исправлен мгновенный сброс диалога сборки («Сборка пакета иконок…») и отмена применения темы при включённом тумблере «🎨 Перекрас всех приложений Google» на глобальных прошивках\n• Полупрозрачный стеклянный корпус сервисов Google в стиле «Жидкое стекло» при включённой перекраске: значки Google (G, Фото, Gmail, Play, Карты, YouTube и др.) теперь получают настоящую прозрачную линзу, блик мениска и стеклянный ободок в полный размер 1:1 без внутреннего квадрата\n• Двухшаговый сброс кэша подложек лаунчера (mWhiteShadowLayer) при переключении перекраски Google и сохранение всех улучшений 1.2.3–1.2.5"
+}
