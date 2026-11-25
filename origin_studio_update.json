@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 132,
-    "versionName": "2.7.0-beta31",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta31/OriginOS-Studio-2.7.0-beta31.apk",
-    "apkSizeBytes": 4522245,
+    "versionCode": 133,
+    "versionName": "2.7.0-beta32",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta32/OriginOS-Studio-2.7.0-beta32.apk",
+    "apkSizeBytes": 4534533,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/beta/catalog.json",
-    "changelog": "• Исправлен сброс пользовательского шрифта при применении полной темы со шторкой и импортированных тем `.itz`: системный пакет `com.bbk.theme` больше не вызывает `AllFontApply` (модуль `0x73`) и не затирает `/data/vfonts/VivoFont.ttf` заводским полужирным шрифтом.\n• Компактное меню карточек в «Недавних» без узкого шрифта в Telegram: разделены системная ступень масштаба `sp` Vivo (`80% / 90% / 100%`) и метрики `.ttf` при 100% круглой ширине букв, убран принудительный сброс `sp` в `100%` при установке шрифта и удалён неработающий на китайской OriginOS строковый оверлей `com.vivo.recents`."
+    "changelog": "• Меню карточек в «Недавних» (сетка 2×2 на OriginOS 7 CN): добавлен выбор между двумя однострочными режимами во вкладке «Темы» — **«Оригинал 1 стр.»** (точные заводские подписи *«Заблокировать / Разблокировать / О приложении / Разделенный экран / Маленькое окно»* через изолированные PUA-глифы шрифта без сжатия букв в Telegram и других приложениях) и **«Короткие 16sp»** (*«Замок / Снять / Детали / 2 экрана / В окне»* штатным крупным шрифтом), а также режим **«Выкл»**.\n• Исправлена активация модульного оверлея `/data/bbkcore/theme/com.vivo.recents` на китайских прошивках OriginOS 7 (`vivo X200 Pro CN` и др.) за счёт чисто числового 7-значного `themeId > 999` при полном сохранении установленного пользовательского шрифта."
 }
