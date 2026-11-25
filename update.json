@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 116,
+  "versionName": "1.2.5",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.2.5/OriginOS-Studio-Global-1.2.5.apk",
+  "apkSizeBytes": 4755723,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Исправлена проблема «Квадрат внутри остаётся» на значках сервисов Google (Google, Фото, Gmail, Google Play, Chrome, YouTube и др.) в стиле «Жидкое стекло», «AMOLED» и в сторонних темах .itz на глобальных прошивках\n• Полноразмерная калибровка контура launcher/icon_mask.png и параметров <width>/<height> в launcher/iconsize.xml с автоматическим построением силуэтной маски по форме стеклянной карточки темы\n• Сохранены все улучшения 1.2.3–1.2.4: работа Тем Vivo без экрана «Нет ресурсов» (в том числе под VPN) и 3D-эмодзи с iPhone (Apple iOS 26.4 Emoji) в 1 касание"
+}
