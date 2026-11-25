@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 118,
+  "versionName": "1.2.7",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.2.7/OriginOS-Studio-Global-1.2.7.apk",
+  "apkSizeBytes": 4755723,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Синхронизация выбранного в Студии цвета с системными и Google-значками на глобальных прошивках: исправлен идентификатор монохромного стиля SystemUI (MONOCHROMATIC, color_index=1) и передача пользовательских цветов из вкладок «Базовые» и «Свои» в «Жидком стекле»\n• Исправлен мгновенный сброс диалога сборки при включённом тумблере «🎨 Перекрас всех приложений Google» и добавлен полупрозрачный стеклянный корпус сервисов Google без внутреннего квадрата (1.2.6)\n• Сохранены все улучшения 1.2.3–1.2.5: работа Тем Vivo под VPN и 3D-эмодзи с iPhone (Apple iOS 26.4 Emoji)"
+}
