@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 141,
-    "versionName": "2.7.0-beta40",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta40/OriginOS-Studio-2.7.0-beta40.apk",
-    "apkSizeBytes": 4604248,
+    "versionCode": 142,
+    "versionName": "2.7.0-beta41",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta41/OriginOS-Studio-2.7.0-beta41.apk",
+    "apkSizeBytes": 4641112,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/beta/catalog.json",
-    "changelog": "• **Динамический автоперекрас без переустановки (`OriginAutoApplyService`):** при смене статических или живых обоев Vivo, кружков «Системного стиля» и ночного режима Студия автоматически пересобирает и бесшовно применяет тему на рабочем столе — сама подтверждает кнопку «Применить» в `ResPreview`, ждёт завершения установки и закрывает системное окно без ручных нажатий.\n• **Ускорение подготовки темы в 10–15 раз (~1 сек вместо 15 сек):** прямая 6-поточная генерация официальной папки темы `H3H_Official_*` в обход промежуточного архива `.itz` и распаковки на FUSE `/sdcard/`, а также ускоренная параллельная распаковка сторонних наборов.\n• **Поддержка живых обоев Vivo OriginOS:** прямое считывание динамических цветов живых обоев (`LightShadow` / `BehaviorWallpaper`) из системных ключей OriginOS и отслеживание `WallpaperId`."
+    "changelog": "• **Конструктор кастомного экрана блокировки OriginOS (`VivoLockscreenEngine`):** встроенные стили часов («Крупный OriginOS», «Жидкое стекло», «Двухэтажные») с подключением активного `.ttf`-шрифта Студии, параллаксом свайпа и кнопкой **«🔒 Только локскрин»** для мгновенного применения экрана блокировки (`0x6e`) без сброса рабочего стола, значков и шрифта.\n• **Импорт часов из KWGT (`.kwgt`) на экран блокировки (`KwgtLockscreenConverter`):** перенос встроенных `.ttf`/`.otf`-шрифтов, слоёв `Overlap`/`Stack`/`Komponent`, градиентных фигур `ShapeModule` и формул времени/даты/батареи/погоды (`$df(...)$`, `$bi(...)$`, `$wi(...)$`, `$gv(...)$`) с интерактивным редактором позиции X/Y и масштаба на живом предпросмотре.\n• **Полная поддержка тем Xiaomi MIUI / HyperOS (`.mtz`) (`MtzThemeConverter`):** конвертация `.mtz` в полные темы OriginOS 7 (автопереназначение системных пакетов Xiaomi → Vivo + карточки `1×2 / 2×1 / 2×2`, перенос обоев, шрифта, акцента шторки из `theme_values.xml` и трансляция локскрина MAML `advance/manifest.xml` → Vivo Ibimuyu).\n• **Улучшение «Жидкого стекла» для нестандартных иконок и карточек:** чистое растворение однотонных круглых шайб логотипов без мутного ореола и калиброванный тонкий стеклянный кантик на растянутых карточках `1×2 / 2×1 / 2×2`."
 }
