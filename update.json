@@ -1,0 +1,11 @@
+{
+  "channel": "global-beta",
+  "packageName": "rk.android.app.themedicons.vivo.global.beta",
+  "versionCode": 206,
+  "versionName": "1.4.0-beta6",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-beta-v1.4.0-b6/OriginOS-Studio-Global-Beta-1.4.0-beta6.apk",
+  "apkSizeBytes": 4821511,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global-beta/catalog.json",
+  "changelog": "• [BETA 6] Единый 1:1 размер для ВСЕХ иконок в сторонних APK-иконпаках (Material 3 White / Dark и др.): убраны прозрачные поля вокруг подложки <iconback>, из-за которых непокрытые иконки и системные утилиты рендерились уменьшенными (159px вместо 193px);\n• [BETA 6] Автоопределение двухцветных карточных иконпаков (Material 3 White / Dark) + контурный детектор Собеля для новых сложных приложений без монохромного слоя (клиенты VPN и игры больше никогда не становятся пустым белым квадратом!);\n• [BETA 6] Полное раскрытие масштаба 140% (236px на холсте 240×240 + компенсация 62/59 для Google и док-бара) и автосинхронизация размера виджетов 1×1 с масштабом рабочего стола;\n• [BETA 5] Полная защита и автовосстановление Always On Display («Всегда на экране» / com.vivo.nightpearl) в 1 касание."
+}
