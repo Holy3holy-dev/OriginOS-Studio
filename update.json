@@ -1,0 +1,11 @@
+{
+  "channel": "global-beta",
+  "packageName": "rk.android.app.themedicons.vivo.global.beta",
+  "versionCode": 202,
+  "versionName": "1.4.0-beta2",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-beta-v1.4.0-b2/OriginOS-Studio-Global-Beta-1.4.0-beta2.apk",
+  "apkSizeBytes": 4805127,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global-beta/catalog.json",
+  "changelog": "• [BETA 2] Исправлен сброс палитры «Системного стиля» Vivo после применения значков через com.bbk.theme: теперь выбранный системный цвет (или автоинициализация при выключенных тумблерах) сохраняется автоматически, значки красятся с первой секунды и мгновенно реагируют на смену цвета в Настройках телефона;\n• [BETA 2] Эталонное «Жидкое стекло» от Системного стиля для 100% приложений: Google, системные и ~85% приложений с <monochrome> (Telegram, Discord, TikTok, ВК, банки и др.) перекрашиваются нативно на лету, а старые игры без <monochrome> (Roblox, Чижик, Темы, V-Appstore) рендерятся по той же альфа-линзе BlendMode.SRC_IN;\n• [BETA 2] Полная поддержка любых иконок в Бета-движке: сторонние APK-иконпаки из каталога/Play Маркета, импортированные архивы (.itz / .mtz / .zip) и точечные кастомные иконки [✎] с поддержкой капсул 2×1 / 1×2 / 2×2;\n• [BETA 2] Умное автоприменение по умолчанию: после выбора нового цвета в «Системном стиле» Vivo и выхода на рабочий стол Студия автоматически обновляет оставшиеся игры и кастомные иконпаки в новый системный цвет."
+}
