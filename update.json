@@ -1,0 +1,11 @@
+{
+  "channel": "global-beta",
+  "packageName": "rk.android.app.themedicons.vivo.global.beta",
+  "versionCode": 205,
+  "versionName": "1.4.0-beta5",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-beta-v1.4.0-b5/OriginOS-Studio-Global-Beta-1.4.0-beta5.apk",
+  "apkSizeBytes": 4817415,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global-beta/catalog.json",
+  "changelog": "• [BETA 5] Исправлено исчезновение Always On Display (Всегда на экране / com.vivo.nightpearl) после применения полной темы: исключён модуль 0x72 (AllClockApply), который записывал донорский ID темы вместо заводского циферблата AOD;\n• [BETA 5] Добавлено автоматическое самовосстановление AOD при запуске приложения и кнопка «🔧 Восстановить работу AOD (Всегда на экране)» во вкладках «Темы», «Система» и на главном экране (если обнаружен сбой стиля AOD);\n• [BETA 4] Крупные виджеты иконок 1×1 вровень с док-баром + ползунки масштаба (65%…140%) и вертикального выравнивания, приоритетный цвет иконпака для значков Google и системных приложений Vivo, регулировка размера папок;\n• [BETA 3] Автоподтверждение диалога Тёмного режима в com.bbk.theme, защита тёмных паков днём от белых пятен и автоскругление паков ColorOS."
+}
