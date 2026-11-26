@@ -1,0 +1,11 @@
+{
+  "channel": "global-beta",
+  "packageName": "rk.android.app.themedicons.vivo.global.beta",
+  "versionCode": 204,
+  "versionName": "1.4.0-beta4",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-beta-v1.4.0-b4/OriginOS-Studio-Global-Beta-1.4.0-beta4.apk",
+  "apkSizeBytes": 4813319,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global-beta/catalog.json",
+  "changelog": "• [BETA 4] Исправлены размер и выравнивание виджетов иконок 1×1: убраны лишние системные отступы и прозрачные рамки (теперь значки крупные — вровень с иконками док-бара!), а прямо в окне «Виджеты иконок 1×1» добавлены два живых ползунка — «Размер значка 65%…140%» и «Выравнивание по высоте ячейки»;\n• [BETA 4] Исправлены цвет, размер и иконки системных приложений и Google при использовании сторонних/импортированных иконпаков: системные приложения Vivo (Камера, Настройки, Галерея, Калькулятор и др.) теперь берут авторские значки из иконпака, а значки Google получают приоритетный модуль цвета пака (без серого квадрата внутри белой рамки) и крупный диаметр 1:1 с иконпаком;\n• [BETA 4] Во вкладку «Иконки → Папки» добавлена живая регулировка размера папок на рабочем столе Vivo (Авто / Компакт / Стандарт / Крупные / Макс.);\n• [BETA 3] Автоподтверждение системного диалога Тёмного режима в com.bbk.theme, защита от белых пятен днём на тёмных паках и автоскругление паков ColorOS."
+}
