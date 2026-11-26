@@ -1,0 +1,11 @@
+{
+  "channel": "global-beta",
+  "packageName": "rk.android.app.themedicons.vivo.global.beta",
+  "versionCode": 203,
+  "versionName": "1.4.0-beta3",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-beta-v1.4.0-b3/OriginOS-Studio-Global-Beta-1.4.0-beta3.apk",
+  "apkSizeBytes": 4809223,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global-beta/catalog.json",
+  "changelog": "• [BETA 3] Исправлен перекрас всех 27 приложений Google (Chrome, YouTube, Gmail, Play, Фото, Карты, Диск, YT Music и др.): гарантированный двойной импульс флагов монохрома лаунчера (material_you_overlay_enable + themed_icon_enabled) и автосинхронизация сразу при входе после обновления;\n• [BETA 3] Устранены нечитаемые «белые квадраты» на тёмных паках/AMOLED/Стекле при включённой светлой (дневной) теме системы: FabricatedOverlay теперь жёстко удерживает тёмную подложку и контрастный глиф как ночью, так и днём;\n• [BETA 3] Исправлено зависание установки значков при включённом Тёмном режиме системы и пустой тост «Подтвердите кнопку Применить ()»: добавлено автоподтверждение системного диалога Тёмного режима в com.bbk.theme и PID-изоляция Shizuku без конфликтов со стабильной версией;\n• [BETA 3] Выровнен пиксель-в-пиксель размер значков Google и растровых иконок (компенсация множителя 62/59 в BBKLauncher2) + добавлено автоскругление острых чёрных углов у импортированных паков ColorOS / MIUI;\n• [BETA 3] На главный экран Мастерской и в самое начало раздела «Виджеты» возвращена кнопка быстрого создания виджетов иконок приложений 1×1 (без бейджа Студии)."
+}
