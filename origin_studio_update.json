@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 126,
+  "versionName": "1.3.5",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.3.5/OriginOS-Studio-Global-1.3.5.apk",
+  "apkSizeBytes": 4796935,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Исправлен сбой повторной смены значков на OriginOS 6 Global (iQOO Z10 5G, vivo V60 и др.), когда после 1-го успешного раза карточка «Wonderful universe» визуально применялась, но значки оставались стоковыми: устранена перезапись карты применения в ResBasePreview.c0(), добавлены постоянная ротация донорских слотов, автоподтверждение диалога Тёмного режима и гарантированный сброс кеша лаунчера даже при ручном нажатии «Применить»\n• Устранено зависание прогресс-бара на этапе «Упаковка архива .itz…» (когда сборка ждала сворачивания приложения): внедрены коалесцирующий троттлинг UI, живой прогресс сборки капсул 2×1 / 2×2 и неблокирующее закрытие окна\n• Сохранена полная защита и восстановление Always On Display («Всегда на экране» / com.vivo.nightpearl) в 1 касание и нативный перекрас всех 27 сервисов Google"
+}
