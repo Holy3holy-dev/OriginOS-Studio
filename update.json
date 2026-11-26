@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 125,
+  "versionName": "1.3.4",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.3.4/OriginOS-Studio-Global-1.3.4.apk",
+  "apkSizeBytes": 4792839,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• Исправлено исчезновение Always On Display («Всегда на экране» / com.vivo.nightpearl) после применения полной темы (.itz): из набора модулей исключён код 0x72 (AllClockApply), который записывал числовой ID донорского слота темы вместо заводского пресета циферблата AOD\n• Добавлено автоматическое самовосстановление AOD при запуске приложения (если обнаружен сбитый донорский ID) и кнопка «🔧 Восстановить работу AOD (Всегда на экране)» во вкладках «Темы», «Система» и на главном экране\n• Сохранён нативный перекрас всех 27 сервисов Google через системный FabricatedOverlay и конструктор чистых 1×1 виджетов иконок приложений без значка Студии"
+}
