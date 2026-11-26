@@ -1,10 +1,10 @@
 {
     "channel": "beta",
-    "versionCode": 140,
-    "versionName": "2.7.0-beta39",
-    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta39/OriginOS-Studio-2.7.0-beta39.apk",
-    "apkSizeBytes": 4583685,
+    "versionCode": 141,
+    "versionName": "2.7.0-beta40",
+    "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/v2.7.0-beta40/OriginOS-Studio-2.7.0-beta40.apk",
+    "apkSizeBytes": 4604248,
     "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
     "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/beta/catalog.json",
-    "changelog": "• **Живой «Системный стиль Vivo (OriginOS)» без Shizuku:** прямое чтение системной палитры из `ThemeIconManager` и настроек OriginOS для 100% приложений (включая старые игры, «Жидкое стекло» и растянутые капсулы `1×2 / 2×1 / 2×2`), живой баннер текущей системной пары, быстрый переход в «Цвета системы Vivo», карта покрытия с поддержкой китайских префиксов `MonochromeIcons` (`os6_0_`, `os5_0_`, `vos5_0_`) и реактивная автосборка при смене цвета.\n• **Чистый загрузчик заводских иконок из APK:** чтение ресурсов напрямую из APK установленных приложений в обход кэша `/data/bbkcore/theme/icons/` исключает наслоение старой темы при повторных перекрасках.\n• **Новые возможности оформления и импорта:** привязка ползунков «Жидкого стекла» к растянутым карточкам `1×2 / 2×1 / 2×2`, режимы папок «Тёмное стекло» и «Светлое стекло», а также полноценный импорт наборов значков из тем MIUI/HyperOS (`.mtz`, включая `fancy_icons` и `.webp`)."
+    "changelog": "• **Динамический автоперекрас без переустановки (`OriginAutoApplyService`):** при смене статических или живых обоев Vivo, кружков «Системного стиля» и ночного режима Студия автоматически пересобирает и бесшовно применяет тему на рабочем столе — сама подтверждает кнопку «Применить» в `ResPreview`, ждёт завершения установки и закрывает системное окно без ручных нажатий.\n• **Ускорение подготовки темы в 10–15 раз (~1 сек вместо 15 сек):** прямая 6-поточная генерация официальной папки темы `H3H_Official_*` в обход промежуточного архива `.itz` и распаковки на FUSE `/sdcard/`, а также ускоренная параллельная распаковка сторонних наборов.\n• **Поддержка живых обоев Vivo OriginOS:** прямое считывание динамических цветов живых обоев (`LightShadow` / `BehaviorWallpaper`) из системных ключей OriginOS и отслеживание `WallpaperId`."
 }
