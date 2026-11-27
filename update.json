@@ -1,0 +1,11 @@
+{
+  "channel": "global-beta",
+  "packageName": "rk.android.app.themedicons.vivo.global.beta",
+  "versionCode": 210,
+  "versionName": "1.4.0-beta10",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-beta-v1.4.0-b10/OriginOS-Studio-Global-Beta-1.4.0-beta10.apk",
+  "apkSizeBytes": 4854279,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global-beta/catalog.json",
+  "changelog": "• [BETA 10] Устранены белые и багнутые плашки на непокрытых приложениях (Hiddify, INCY и др.) при установке тёмных паков каталога (ColorOS 16 Dark Mint и др.): шаблонный белый launcher/icon_bg_default.png больше не подмешивается в тёмные наборы и автоматически заменяется карточкой цвета и диаметра самого пака, а вложенные квадратные плитки в <foreground> очищаются до чистого глифа;\n• [BETA 10] Выровнен единый размер всех карточек импортированных .itz / .mtz паков (устранена разница на 25% между Галереей и Настройками): квадратные плитки скругляются суперэллипсом Ламе строго в диаметр остальных иконок пака вместо уменьшения до 180px;\n• [BETA 10] Исправлен нативный перекрас всех приложений Google (Chrome, Gmail, Play, Maps, YouTube, G Pay) на OriginOS 6 Global (iQOO Z10 5G и др.): удаляются плотностные дубликаты launcher/xxxhdpi/iconsize.xml (<width>65</width>, <originostheme>1</originostheme>), а синхронизация монохромной палитры дожидается полного завершения SystemStyleApply в менеджере тем Vivo и удерживает оба системных флага активными."
+}
