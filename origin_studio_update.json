@@ -1,0 +1,11 @@
+{
+  "channel": "global",
+  "packageName": "rk.android.app.themedicons.vivo.global",
+  "versionCode": 131,
+  "versionName": "1.3.10",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-v1.3.10/OriginOS-Studio-Global-1.3.10.apk",
+  "apkSizeBytes": 4841991,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global/catalog.json",
+  "changelog": "• [Google иконки и холодный старт BBKLauncher2] Исправлена гонка холодного старта лаунчера Vivo (gdr$gda vs LauncherModel) после применения .itz и гарантировано наличие /data/bbkcore/theme/content/config.xml: все 27 приложений Google (Play, Gmail, Chrome, YouTube, Фото, Карты, G Pay) стабильно перекрашиваются на светлых и тёмных паках;\n• [Защита от зависаний и рамки тёмных паков] Устранено зависание на «Упаковке .itz…» при заморозке Shizuku планировщиком Vivo Hans, добавлена зачистка белых рамок icon_border/icon_cover и подложек icon_bg_*_1x1, маппинг символических имён (_settings, _gallery и др.) и автомиграция кэша;\n• [Папки и AOD] Масштабирование геометрии папок в iconsize.xml + быстрый переход к настройкам больших папок 2×2 лаунчера Vivo, а также автовосстановление Always On Display на китайских и глобальных прошивках OriginOS 6."
+}
