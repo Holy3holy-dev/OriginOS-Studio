@@ -1,0 +1,11 @@
+{
+  "channel": "global-beta",
+  "packageName": "rk.android.app.themedicons.vivo.global.beta",
+  "versionCode": 212,
+  "versionName": "1.4.0-beta12",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-beta-v1.4.0-b12/OriginOS-Studio-Global-Beta-1.4.0-beta12.apk",
+  "apkSizeBytes": 4858375,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global-beta/catalog.json",
+  "changelog": "• [BETA 12 • Google иконки и холодный старт BBKLauncher2] Исправлена гонка холодного старта лаунчера Vivo (gdr$gda vs LauncherModel) после применения .itz и гарантировано наличие /data/bbkcore/theme/content/config.xml: все 27 приложений Google (Play, Gmail, Chrome, YouTube, Фото, Карты, G Pay) стабильно перекрашиваются на светлых и тёмных паках;\n• [BETA 12 • Защита от зависаний и рамки тёмных паков] Устранено зависание на «Упаковке .itz…» при заморозке Shizuku планировщиком Vivo Hans, добавлена зачистка белых рамок icon_border/icon_cover и подложек icon_bg_*_1x1, маппинг символических имён (_settings, _gallery и др.) и автомиграция кэша;\n• [BETA 12 • Папки и AOD] Масштабирование геометрии папок в iconsize.xml + быстрый переход к настройкам больших папок 2×2 лаунчера Vivo, а также автовосстановление Always On Display на китайских и глобальных прошивках OriginOS 6."
+}
