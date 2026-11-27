@@ -1,0 +1,11 @@
+{
+  "channel": "global-beta",
+  "packageName": "rk.android.app.themedicons.vivo.global.beta",
+  "versionCode": 211,
+  "versionName": "1.4.0-beta11",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-beta-v1.4.0-b11/OriginOS-Studio-Global-Beta-1.4.0-beta11.apk",
+  "apkSizeBytes": 4854279,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global-beta/catalog.json",
+  "changelog": "• [BETA 11 • Хотфикс применения тем] Полностью устранён баг с циклическим перебором чужих тем (5–10 открытий подряд / зацикливание на Hello Sunshine): убран запрещённый SELinux-вызов dir.list() на /data/bbkcore/theme/icons, автоматически сбрасывается ложный бан-лист слотов и расширен пул до 16 свежих бесплатных карточек Vivo;\n• [BETA 10–11] Устранены белые и залитые плашки на непокрытых приложениях (Hiddify, INCY и др.) при установке тёмных паков каталога (ColorOS 16 Dark Mint): белый шаблон launcher/icon_bg_default.png автоматически заменяется карточкой цвета и размера пака;\n• [BETA 10–11] Выровнен размер карточек импортированных .itz / .mtz паков 1:1 (Галерея = Настройки = 240px) + исправлен нативный перекрас всех приложений Google (Chrome, Gmail, Play, Maps, YouTube, G Pay)."
+}
