@@ -1,0 +1,11 @@
+{
+  "channel": "global-beta",
+  "packageName": "rk.android.app.themedicons.vivo.global.beta",
+  "versionCode": 216,
+  "versionName": "1.4.0-beta16",
+  "apkUrl": "https://github.com/Holy3holy-dev/OriginOS-Studio/releases/download/global-beta-v1.4.0-b16/OriginOS-Studio-Global-Beta-1.4.0-beta16.apk",
+  "apkSizeBytes": 4874759,
+  "bannerUrl": "https://raw.githubusercontent.com/elementary/wallpapers/master/backgrounds/odin.jpg",
+  "catalogUrl": "https://raw.githubusercontent.com/Holy3holy-dev/OriginOS-Studio/global-beta/catalog.json",
+  "changelog": "• [BETA 16 • Без выбросов на рабочий стол и мгновенное окно Тем] Убран принудительный переход CATEGORY_HOME из помощника (пользователя больше не выкидывает из Studio и сторонних приложений), убрана гонка 8 таймеров отложенной синхронизации (generation-токен + последовательная блокировка + проверка смены beforeThemeId), устранён двойной рестарт лаунчера при применении полной темы со шрифтом, ускорена подготовка перед запуском Тем и убран обрезанный технический хвост из тоста;\n• [BETA 16 • Разрыв фоновой самопетли LiveThemeSyncService] Исключён самотриггер theme_icons_colors_changed_explore, добавлено окно подавления собственных записей и защита от принудительного открытия Тем поверх сторонних приложений из фона;\n• [BETA 16 • 100% перекрас Google во всех режимах + сохранение выбора пользователя] Явный выбор «Перекрас всех приложений Google» больше не блокируется режимом «Без рамки 1:1» и не стирается при импорте .itz или смене стиля/пака; растровые icons/<google_pkg>.png автоматически исключаются при активном перекрасе Google, чтобы BBKLauncher2 гарантированно использовал ThemedIconDrawable."
+}
